@@ -1,0 +1,1105 @@
+<!doctype html>
+<html lang="cs" class="html-no-js html-no-flex html-no-column-count html-not-use-css-blur html-no-hover">
+ <head> 
+  <title>Seznam - najdu tam, co neznám</title> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta content="width=device-width, initial-scale=1, minimal-ui" name="viewport"> 
+  <meta name="description" content="Nejnavštěvovanější český internetový portál nabízející vyhledávač, e-mail, aktuální zprávy, předpověď počasí a odkazy, které se mohou hodit."> 
+  <meta name="application-name" content="Seznam.cz"> 
+  <link rel="canonical" href="https://www.seznam.cz/"> 
+  <meta name="apple-itunes-app" content="app-id=950278657, app-argument=https://www.seznam.cz"> 
+  <meta content="/media/img/logo-share-square_v2.png" property="og:image"> 
+  <meta http-equiv="x-dns-prefetch-control" content="on"> 
+  <link rel="dns-prefetch" href="https://www.novinky.cz/"> 
+  <link rel="dns-prefetch" href="https://www.super.cz/"> 
+  <link rel="dns-prefetch" href="https://www.sport.cz/"> 
+  <link rel="dns-prefetch" href="https://www.stream.cz/"> 
+  <link rel="dns-prefetch" href="https://www.prozeny.cz/"> 
+  <link rel="dns-prefetch" href="https://tv.seznam.cz/"> 
+  <link rel="dns-prefetch" href="https://www.firmy.cz/"> 
+  <link rel="dns-prefetch" href="https://www.horoskopy.cz/"> 
+  <link rel="dns-prefetch" href="https://www.hry.cz/"> 
+  <link rel="dns-prefetch" href="https://www.mapy.cz/"> 
+  <link rel="dns-prefetch" href="https://www.sreality.cz/"> 
+  <link rel="dns-prefetch" href="https://www.sauto.cz/"> 
+  <link rel="dns-prefetch" href="https://www.sdovolena.cz/"> 
+  <link rel="dns-prefetch" href="https://search.seznam.cz/"> 
+  <link rel="dns-prefetch" href="https://obrazky.seznam.cz/"> 
+  <link rel="dns-prefetch" href="https://slovnik.seznam.cz/"> 
+  <link rel="dns-prefetch" href="https://videa.seznam.cz/"> 
+  <link rel="apple-touch-icon" sizes="76x76" href="/media/img/seznam-icons/apple-touch-icon-76x76.png"> 
+  <link rel="apple-touch-icon" sizes="120x120" href="/media/img/seznam-icons/apple-touch-icon-120x120.png"> 
+  <link rel="apple-touch-icon" sizes="152x152" href="/media/img/seznam-icons/apple-touch-icon-152x152.png"> 
+  <link rel="apple-touch-icon" sizes="180x180" href="/media/img/seznam-icons/apple-touch-icon-180x180.png"> 
+  <link rel="icon" sizes="16x16" href="/media/img/seznam-icons/favicon-16x16.png"> 
+  <link rel="icon" sizes="32x32" href="/media/img/seznam-icons/favicon-32x32.png"> 
+  <link rel="icon" sizes="96x96" href="/media/img/seznam-icons/favicon-96x96.png"> 
+  <link rel="icon" sizes="192x192" href="/media/img/seznam-icons/favicon-192x192.png"> 
+  <link rel="shortcut icon" href="/media/img/seznam-icons/favicon.ico"> 
+  <meta name="msapplication-TileColor" content="#b91d47"> 
+  <meta name="msapplication-TileImage" content="/media/img/seznam-icons/mstile-144x144.png"> 
+  <meta name="msapplication-config" content="/media/img/seznam-icons/browserconfig.xml"> 
+  <meta name="google-site-verification" content="et9w6P5bnsuJiHvQkgmqPTDzRDU2FjObXvRU_hVhy80"> 
+  <link rel="alternate" type="application/rss+xml" title="Seznam.cz" href="http://seznam.seznamblog.cz/rss"> 
+  <link rel="search" type="application/opensearchdescription+xml" title="Seznam.cz" href="https://download.seznam.cz/vyhledavani/opensearch/seznam-cz.xml"> 
+  <link rel="search" type="application/opensearchdescription+xml" title="Firmy.cz" href="https://download.seznam.cz/vyhledavani/opensearch/firmy-cz.xml"> 
+  <link rel="search" type="application/opensearchdescription+xml" title="Mapy.cz" href="https://download.seznam.cz/vyhledavani/opensearch/mapy-cz.xml"> 
+  <link rel="search" type="application/opensearchdescription+xml" title="Zboží.cz" href="https://download.seznam.cz/vyhledavani/opensearch/zbozi-cz.xml"> 
+  <script type="text/javascript" src="/1.26.33/js/client/client-polyfills.min.js"></script> 
+  <script type="text/javascript" src="/1.26.33/js/client/client-babel-runtime.min.js"></script> 
+  <script type="text/javascript" src="/1.26.33/js/client/client-init.min.js"></script> 
+  <script type="text/javascript" src="/1.26.33/js/client/client-bundle-page-hp.min.js"></script> 
+  <script type="text/javascript" src="//h.imedia.cz/js/dot-small.js"></script> 
+  <script type="text/javascript" src="//h.imedia.cz/js/sid.js"></script> 
+  <script type="text/javascript" src="//i.imedia.cz/js/im3.js"></script> 
+  <script type="text/javascript" src="//geo.seznam.cz/static/js/geo.js"></script> 
+  <script type="text/javascript" src="/js/api/login.js"></script> 
+  <script type="text/javascript" src="/1.26.33/js/client/player.bundle.min.js"></script> 
+  <link rel="stylesheet" type="text/css" href="/1.26.33/css/sznplayer.min.css"> 
+  <link rel="stylesheet" media="all" href="/1.26.33/css/homepage-skin-default.min.css" data-skin-css-id="default" data-skin-id="1"> 
+ </head> 
+ <body id="www-seznam-cz" data-dot="renderer" data-dot-data="{}"> 
+  <div id="hp-app">
+   <div class="ui--cols-2 ui" tabindex="-1" data-reactroot="" data-reactid="1" data-react-checksum="844943190">
+    <div data-drag-and-drop="true" class="drag-and-drop" data-reactid="2">
+     <div class="dragged-element " style="position:absolute;top:0px;left:0px;z-index:999999;" data-reactid="3"></div>
+     <div class="main-content" data-hybrid-header-height="0" data-reactid="4">
+      <div class="main-content__scrollable-content" data-reactid="5">
+       <div class="main-content__background" style="padding-top:0;" data-reactid="6">
+        <div id="ad-top-vision" class="ad-top-vision ad-content" data-reactid="7"></div>
+        <div data-app-promo="true" data-reactid="8"></div>
+        <div class="ad-vendor ad-content" data-reactid="9"></div>
+        <div class="ad-stripe ad-content" data-reactid="10"></div>
+        <div class="" data-reactid="11">
+         <header class="header" data-reactid="12">
+          <div class="top-nav clearfix" data-dot="headLinks" data-reactid="13">
+           <div class="nav content-underlay" data-reactid="14">
+            <a class="nav__item link" href="#nastaveni" role="button" data-fallback="true" data-reactid="15">Nastavení</a>
+            <span class="nav__separator" data-reactid="16">|</span>
+            <a class="nav__item link" href="https://login.szn.cz/?serviceId=homepage&amp;returnURL=https%3A%2F%2Fwww.seznam.cz%2F" data-command="ignore-link" data-reactid="17">Přihlásit</a>
+           </div>
+          </div>
+          <div class="hp-search content-underlay content-underlay--main content-underlay--main-top hp-search--compact" data-reactid="18">
+           <div class="content" data-dot="search" data-reactid="19">
+            <h1 class="logo" data-reactid="20"><a href="/" class="seznam-logo link focusable-box" data-dot="seznam-logo" data-reactid="21"><img class="seznam-logo__image" src="/media/img/logo_v2.png" alt="Seznam.cz - hlavní strana" title="Seznam.cz - hlavní strana" data-reactid="22"></a></h1>
+            <a class="krasty focusable-box" data-dot="krasty" href="https://www.sport.cz/hokej/ms2017/" title="Dnes hraje Česká republika se Švýcarskem" data-reactid="23"><img class="smart-image krasty__image" alt="Dnes hraje Česká republika se Švýcarskem" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_H_I/fpGBeZQ.png" srcset="" data-reactid="24"></a>
+            <div class="search" data-reactid="25">
+             <ul class="search__tabs" data-reactid="26">
+              <li class="search__tab search__tab--active search__tab--fulltext" data-reactid="27"><a class="search__tab-link link" href="https://search.seznam.cz/" data-dot="internet" data-reactid="28">Internet</a><span class="search__tab-pointer" data-reactid="29"> 
+                <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="28" height="8" viewbox="0 0 28 8" class="svg-tab-pointer"> 
+                 <path class="svg-tab-pointer__fill" fill="#fff" d="M 2,9 2,7.5 C 11,7 10,1 14,1 18,1 17,7 26,7.5 L 26,9" /> 
+                 <path class="svg-tab-pointer__path" fill="none" stroke="#cccccc" stroke-width="1" stroke-miterlimit="4" stroke-linecap="square" stroke-linejoin="miter" d="M -9.5,7.5 2,7.5 C 11,7 10,1 14,1 c 4,0 3,6 12,6.5 l 11.5,0" /> 
+                </svg> </span></li>
+              <li class="search__tab search__tab--firmy" data-reactid="30"><a class="search__tab-link link" href="https://www.firmy.cz/" data-dot="firmy" data-reactid="31">Firmy</a></li>
+              <li class="search__tab search__tab--mapy" data-reactid="32"><a class="search__tab-link link" href="https://mapy.cz/" data-dot="mapy" data-reactid="33">Mapy</a></li>
+              <li class="search__tab search__tab--zbozi" data-reactid="34"><a class="search__tab-link link" href="https://www.zbozi.cz/#utm_source=seznam.cz&amp;utm_medium=referral" data-dot="zbozi" data-reactid="35">Zboží</a></li>
+              <li class="search__tab search__tab--obrazky" data-reactid="36"><a class="search__tab-link link" href="https://www.obrazky.cz/" data-dot="obrazky" data-reactid="37">Obrázky</a></li>
+              <li class="search__tab search__tab--slovnik" data-reactid="38"><a class="search__tab-link link" href="https://slovnik.seznam.cz/" data-dot="slovnik" data-reactid="39">Slovník</a></li>
+              <li class="search__tab search__tab--video" data-reactid="40"><a class="search__tab-link link" href="https://videa.seznam.cz/" data-dot="video" data-reactid="41">Video</a></li>
+             </ul>
+             <div class="search-form" data-reactid="42">
+              <form action="https://search.seznam.cz/" data-reactid="43">
+               <div class="search-form__input-wrap" data-reactid="44">
+                <span class="search-form__input-pointer-fixer" data-reactid="45"></span>
+                <label for="fulltext-input" class="blind" data-reactid="46">Hledej v internetu:</label>
+                <input type="text" id="fulltext-input" class="search-form__input input input--hp-search" name="q" value="" autocomplete="off" placeholder="…najdu tam, co neznám" data-reactid="47">
+                <span class="search-form__mic" title="Vyhledávání hlasem" data-reactid="48"><span class="iconfont-mic" data-reactid="49"></span><span style="display:none;" data-reactid="50"></span></span>
+                <input type="hidden" name="oq" value="" data-reactid="51">
+                <input type="hidden" name="sourceid" value="szn-HP" data-reactid="52">
+                <input type="hidden" name="sgId" value="" data-reactid="53">
+                <input type="hidden" name="thru" value="" data-reactid="54">
+                <input type="hidden" name="su" value="" data-reactid="55">
+                <input type="hidden" name="aq" value="" data-reactid="56">
+               </div>
+               <button class="search-form__button button button--submit button--with-input" type="submit" data-reactid="57">Vyhledat</button>
+              </form>
+             </div>
+            </div>
+           </div>
+          </div>
+         </header>
+         <div class="ad-exclusive content-underlay content-underlay--main ad-content" data-reactid="58"></div>
+         <div class="gadget-layout content-underlay content-underlay--main" data-reactid="59">
+          <div data-drag-and-drop-layer="true" class="drag-and-drop-layer" data-reactid="60">
+           <div class="gadget-layout__columns" data-reactid="61">
+            <div class="draggable-content gadget-layout__column--1 gadget-layout__column" data-draggable-content="true" data-draggable-content-id="0" data-dot="col_1" data-reactid="62">
+             <div class="gadget-container animated-height" data-reactid="63">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="163425" data-reactid="64">
+               <div class="gadget gadget--rss gadget--zpravy" data-dot="gadgetZpravy" data-reactid="65">
+                <div class="gadget__header" data-reactid="66">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="67">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="68"><span class="gadget__favicon-wrap" data-reactid="69"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/DDuBe7H.png" srcset="" data-reactid="70"></span><span class="gadget__title-text" data-reactid="71"><a class="link link--gadget-title" href="https://www.seznam.cz/zpravy" data-reactid="72">Seznam Zprávy</a><span class="gadget__calendar-separator" data-reactid="73">&nbsp;• </span><span class="gadget__calendar" data-reactid="74"><span class="gadget__calendar-item" data-reactid="75">
+                      <!-- react-text: 76 -->Úterý
+                      <!-- /react-text -->
+                      <!-- react-text: 77 --> 
+                      <!-- /react-text --><span class="gadget__calendar-date" data-reactid="78">16. května</span>
+                      <!-- react-text: 79 -->.
+                      <!-- /react-text --></span>
+                     <!-- react-text: 80 --> 
+                     <!-- /react-text --><span class="gadget__calendar-item" data-reactid="81"><span class="style-tags style-tags--gadget-title" data-reactid="82">Svátek má <a href="https://www.horoskopy.cz/vyklad-jmena/premysl#hp_seznam" title="Význam jména Přemysl" class="name-link">Přemysl</a>.</span></span></span></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="83">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="84"><span class="blind" data-reactid="85">
+                     <!-- react-text: 86 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 87 -->Seznam Zprávy
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="88"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 89 -->
+                <div class="gadget__content" data-reactid="90">
+                 <div class="article article--first article--main article--normal-image" data-dot="1" data-reactid="91">
+                  <a class="article__img-wrap" href="https://www.seznam.cz/zpravy/clanek/online-babis-rika-ze-ma-noveho-ministra-financi-vybira-ze-tri-jmen-31497?dop-ab-variant=&amp;seq-no=1&amp;source=hp" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="92"><img class="smart-image article__img" alt="Online: Babiš říká, že má nového ministra financí. Vybírá ze tří&nbsp;jmen" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_H_I/bcNBrG7.jpeg?fl=res,450,253,3" srcset="" data-reactid="93"></a>
+                  <div class="article__text-box" data-reactid="94">
+                   <h3 data-reactid="95"><a class="article__title link link--show-visited" href="https://www.seznam.cz/zpravy/clanek/online-babis-rika-ze-ma-noveho-ministra-financi-vybira-ze-tri-jmen-31497?dop-ab-variant=&amp;seq-no=1&amp;source=hp" data-article-link="true" data-reactid="96"><span class="hp-mini-label article__live-label" data-reactid="97"><span class="article__live-label-content" data-reactid="98">ŽIVĚ</span></span>
+                     <!-- react-text: 99 -->Online: Babiš říká, že má nového ministra financí. Vybírá ze tří&nbsp;jmen
+                     <!-- /react-text --></a></h3>
+                   <p class="article__perex" data-reactid="100">Vládní krize pokračuje čtrnáctým dnem. Dění sledujeme v online reportáži.</p>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="2" data-reactid="101">
+                  <div class="article__text-box" data-reactid="102">
+                   <h3 data-reactid="103"><a class="article__title link link--show-visited" href="https://www.seznam.cz/zpravy/clanek/z-francie-a-z-nemecka-prichazi-varovani-v-cesko-ozivaji-uvahy-o-zavedeni-eura-31489?dop-ab-variant=&amp;seq-no=2&amp;source=hp" data-article-link="true" data-reactid="104">
+                     <!-- react-text: 105 -->Z Francie a Německa přichází varování. V Česku ožívají úvahy o zavedení&nbsp;eura
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article article--last" data-dot="3" data-reactid="106">
+                  <div class="article__text-box" data-reactid="107">
+                   <h3 data-reactid="108"><a class="article__title link link--show-visited" href="https://www.seznam.cz/zpravy/clanek/hackeri-ukradli-nove-piraty-z-karibiku-31495?dop-ab-variant=&amp;seq-no=3&amp;source=hp" data-article-link="true" data-reactid="109">
+                     <!-- react-text: 110 -->Hackeři ukradli nové Piráty z&nbsp;Karibiku
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="111">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="26" data-reactid="112">
+               <div class="gadget gadget--rss gadget--novinky" data-dot="gadgetNovinky" data-reactid="113">
+                <div class="gadget__header" data-reactid="114">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="115">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="116"><span class="gadget__favicon-wrap" data-reactid="117"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/bBWBR9T.png" srcset="" data-reactid="118"></span><span class="gadget__title-text" data-reactid="119"><a class="link link--gadget-title" href="https://www.novinky.cz/" data-reactid="120">Novinky</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="121">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="122"><span class="blind" data-reactid="123">
+                     <!-- react-text: 124 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 125 -->Novinky
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="126"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 127 -->
+                <div class="gadget__content" data-reactid="128">
+                 <div class="article article--first article--main article--normal-image" data-dot="1" data-reactid="129">
+                  <a class="article__img-wrap" href="https://www.novinky.cz/domaci/437947-poslanci-ano-radi-babisovi-aby-sel-do-primeho-stretu-s-cssd.html?sznhp=rss" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="130"><img class="smart-image article__img" alt="Poslanci ANO radí Babišovi, aby šel do přímého střetu s&nbsp;ČSSD" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/iP2BwWv.jpeg?fl=res,450,253,3" srcset="" data-reactid="131"></a>
+                  <div class="article__text-box" data-reactid="132">
+                   <h3 data-reactid="133"><a class="article__title link link--show-visited" href="https://www.novinky.cz/domaci/437947-poslanci-ano-radi-babisovi-aby-sel-do-primeho-stretu-s-cssd.html?sznhp=rss" data-article-link="true" data-reactid="134">
+                     <!-- react-text: 135 -->Poslanci ANO radí Babišovi, aby šel do přímého střetu s&nbsp;ČSSD
+                     <!-- /react-text --></a></h3>
+                   <p class="article__perex" data-reactid="136">Vedení hnutí ANO by podle svých poslanců mělo trvat na tom, aby Andreje Babiše v křesle ministra…</p>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="2" data-reactid="137">
+                  <div class="article__text-box" data-reactid="138">
+                   <h3 data-reactid="139"><a class="article__title link link--show-visited" href="https://www.novinky.cz/zahranicni/amerika/437950-mam-pravo-delit-se-o-informace-odrazi-trump-narceni-z-vyzrazeni-tajemstvi.html?sznhp=rss" data-article-link="true" data-reactid="140">
+                     <!-- react-text: 141 -->Mám právo dělit se o&nbsp;informace, odráží Trump nařčení z&nbsp;vyzrazení&nbsp;tajemství
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="3" data-reactid="142">
+                  <div class="article__text-box" data-reactid="143">
+                   <h3 data-reactid="144"><a class="article__title link link--show-visited" href="https://www.novinky.cz/zahranicni/amerika/437935-teenager-vypil-moc-rychle-tri-napoje-s-kofeinem-a-zemrel.html?sznhp=rss" data-article-link="true" data-reactid="145">
+                     <!-- react-text: 146 -->Teenager vypil moc rychle tři nápoje s&nbsp;kofeinem a&nbsp;zemřel
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="4" data-reactid="147">
+                  <div class="article__text-box" data-reactid="148">
+                   <h3 data-reactid="149"><a class="article__title link link--show-visited" href="https://www.novinky.cz/krimi/437916-barbora-skrlova-zije-v-utajeni-pod-dohledem-psychiatru.html?sznhp=rss" data-article-link="true" data-reactid="150">
+                     <!-- react-text: 151 -->Barbora Škrlová žije v&nbsp;utajení pod dohledem&nbsp;psychiatrů
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="5" data-reactid="152">
+                  <div class="article__text-box" data-reactid="153">
+                   <h3 data-reactid="154"><a class="article__title link link--show-visited" href="https://www.novinky.cz/zena/styl/437278-jak-zvladnout-tridni-sraz-i-po-letech-s-gracii.html?sznhp=rss" data-article-link="true" data-reactid="155">
+                     <!-- react-text: 156 -->Jak zvládnout třídní sraz i&nbsp;po letech s&nbsp;grácií
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article article--last" data-dot="6" data-reactid="157">
+                  <div class="article__text-box" data-reactid="158">
+                   <h3 data-reactid="159"><a class="article__title link link--show-visited" href="https://www.novinky.cz/koktejl/437944-valecny-veteran-skocil-ve-101-letech-s-padakem-prekonal-svetovy-rekord.html?sznhp=rss" data-article-link="true" data-reactid="160">
+                     <!-- react-text: 161 -->Válečný veterán skočil ve 101 letech s&nbsp;padákem, překonal světový&nbsp;rekord
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="162">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="1051" data-reactid="163">
+               <div class="gadget gadget--rss gadget--super" data-dot="gadgetSuper" data-reactid="164">
+                <div class="gadget__header" data-reactid="165">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="166">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="167"><span class="gadget__favicon-wrap" data-reactid="168"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/b74BZUt.png" srcset="" data-reactid="169"></span><span class="gadget__title-text" data-reactid="170"><a class="link link--gadget-title" href="https://www.super.cz" data-reactid="171">Super</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="172">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="173"><span class="blind" data-reactid="174">
+                     <!-- react-text: 175 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 176 -->Super
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="177"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 178 -->
+                <div class="gadget__content" data-reactid="179">
+                 <div class="article article--first article--main article--normal-image" data-dot="1" data-reactid="180">
+                  <a class="article__img-wrap" href="https://www.super.cz/502762-za-lasku-s-bohemskym-kucharem-plati-velkou-dan-hvezda-stardance-nemuze-zavadit-o-praci.html" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="181"><img class="smart-image article__img" alt="Za lásku s bohémským kuchařem platí velkou daň: Hvězda StarDance nemůže zavadit o&nbsp;práci" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/Kr4Bv5T.jpeg?fl=res,450,253,3" srcset="" data-reactid="182"></a>
+                  <div class="article__text-box" data-reactid="183">
+                   <h3 data-reactid="184"><a class="article__title link link--show-visited" href="https://www.super.cz/502762-za-lasku-s-bohemskym-kucharem-plati-velkou-dan-hvezda-stardance-nemuze-zavadit-o-praci.html" data-article-link="true" data-reactid="185">
+                     <!-- react-text: 186 -->Za lásku s bohémským kuchařem platí velkou daň: Hvězda StarDance nemůže zavadit o&nbsp;práci
+                     <!-- /react-text --></a></h3>
+                   <p class="article__perex" data-reactid="187">Rozpad vztahu s Janem Onderem a následné provalení poměru s Emanuelem Ridim zamávaly s reputací…</p>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="2" data-reactid="188">
+                  <div class="article__text-box" data-reactid="189">
+                   <h3 data-reactid="190"><a class="article__title link link--show-visited" href="https://www.super.cz/502875-hvezda-velmi-krehkych-vztahu-po-letech-takhle-ted-vypada-muz-ktery-ma-dite-s-plankovou-a-pred-lety-holdoval-alkoholu.html" data-article-link="true" data-reactid="191">
+                     <!-- react-text: 192 -->Hvězda Velmi křehkých vztahů po letech: Takhle teď vypadá muž, který má dítě s Plánkovou a před lety holdoval&nbsp;alkoholu
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article article--last" data-dot="3" data-reactid="193">
+                  <div class="article__text-box" data-reactid="194">
+                   <h3 data-reactid="195"><a class="article__title link link--show-visited" href="https://www.super.cz/502759-noid-je-na-dne-jeho-dcera-terezka-ma-zranenou-nohu-a-manzelka-gabina-rozjela-tvrdy-boj.html" data-article-link="true" data-reactid="196">
+                     <!-- react-text: 197 -->Noid je na dně: Jeho dcera Terezka má zraněnou nohu a manželka Gábina rozjela tvrdý&nbsp;boj!
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="198">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="181" data-reactid="199">
+               <div class="gadget gadget--rss gadget--sport" data-dot="gadgetSport" data-reactid="200">
+                <div class="gadget__header" data-reactid="201">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="202">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="203"><span class="gadget__favicon-wrap" data-reactid="204"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/XrkBUsA.png" srcset="" data-reactid="205"></span><span class="gadget__title-text" data-reactid="206"><a class="link link--gadget-title" href="https://www.sport.cz/" data-reactid="207">Sport</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="208">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="209"><span class="blind" data-reactid="210">
+                     <!-- react-text: 211 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 212 -->Sport
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="213"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <div class="gadget__promo style-tags" data-dot="gadgetPromo" data-reactid="214">
+                 <span data-reactid="215">Nepropásněte už ani jeden gól z MS v hokeji 2017 s <a href="https://aplikace.seznam.cz/sport.html">aplikací Sport.cz</a></span>
+                </div>
+                <div class="gadget__content" data-reactid="216">
+                 <div class="article article--first article--main article--normal-image" data-dot="1" data-reactid="217">
+                  <a class="article__img-wrap" href="https://www.sport.cz/hokej/ms2017/clanek/884469-hokej-on-line-drama-se-nekona-slovaci-inkasovali-do-prazdne-brany.html#hp-sez" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="218"><img class="smart-image article__img" alt="HOKEJ ON-LINE: Drama se nekoná. Slováci inkasovali do prázdné&nbsp;brány" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/EeNBwWG.jpeg?fl=res,450,253,3" srcset="" data-reactid="219"></a>
+                  <div class="article__text-box" data-reactid="220">
+                   <h3 data-reactid="221"><a class="article__title link link--show-visited" href="https://www.sport.cz/hokej/ms2017/clanek/884469-hokej-on-line-drama-se-nekona-slovaci-inkasovali-do-prazdne-brany.html#hp-sez" data-article-link="true" data-reactid="222">
+                     <!-- react-text: 223 -->HOKEJ ON-LINE: Drama se nekoná. Slováci inkasovali do prázdné&nbsp;brány
+                     <!-- /react-text --></a></h3>
+                   <p class="article__perex" data-reactid="224">Závěrečný hrací den základních skupin na hokejovém mistrovství světa nadešel. Posledních šest…</p>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="2" data-reactid="225">
+                  <div class="article__text-box" data-reactid="226">
+                   <h3 data-reactid="227"><a class="article__title link link--show-visited" href="https://www.sport.cz/hokej/ms2017/clanek/884293-plekanec-zatim-v-produktivite-mlci-gol-by-uvolnil-tihu-zatim-ale-pomaham-jinak-rika.html#hp-sez" data-article-link="true" data-reactid="228">
+                     <!-- react-text: 229 -->Plekanec zatím v produktivitě mlčí: Gól by uvolnil tíhu, zatím ale pomáhám jinak,&nbsp;říká
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article article--last" data-dot="3" data-reactid="230">
+                  <div class="article__text-box" data-reactid="231">
+                   <h3 data-reactid="232"><a class="article__title link link--show-visited" href="https://www.sport.cz/ostatni/tenis/clanek/884473-slavne-koloseum-privitalo-tenisove-hvezdy-ty-si-zde-i-zapinkaly.html#hp-sez" data-article-link="true" data-reactid="233">
+                     <!-- react-text: 234 -->Šarapovová a Berdych se ukázali v netradičních kulisách. Ruska tančila, došlo i na&nbsp;pinkání
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="235">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="194" data-reactid="236">
+               <div class="gadget gadget--layout-3-images gadget--stream" data-dot="gadgetStream" data-reactid="237">
+                <div class="gadget__header" data-reactid="238">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="239">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="240"><span class="gadget__favicon-wrap" data-reactid="241"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_H_I/fUxBQD2.png" srcset="" data-reactid="242"></span><span class="gadget__title-text" data-reactid="243"><a class="link link--gadget-title" href="https://www.stream.cz/" data-reactid="244">Stream</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="245">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="246"><span class="blind" data-reactid="247">
+                     <!-- react-text: 248 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 249 -->Stream
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="250"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 251 -->
+                <div class="gadget__content" data-reactid="252">
+                 <div class="item item--stream" data-reactid="253">
+                  <a class="item__img-wrap" href="https://www.stream.cz/darwinovy-ceny/10017413-herecka-z-filmu-pro-dospele-natacela-propagacni-video-pod-vodou-zraloci-si-smlsli?rss&amp;dop-ab-variant=&amp;seq-no=1" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="254"><img class="smart-image item__img" alt="Pornoherečka natáčela video pod vodou. Žraloci si smlsli" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/5yzBrv6.jpeg?fl=res,400,225,3" srcset="" data-reactid="255"><span class="item__img-overlay" data-reactid="256"></span><span class="item__img-text item__img-text--video-time" data-reactid="257">3:54</span></a>
+                  <div class="item__text-box" data-reactid="258">
+                   <a class="item__title link link--show-visited" href="https://www.stream.cz/darwinovy-ceny/10017413-herecka-z-filmu-pro-dospele-natacela-propagacni-video-pod-vodou-zraloci-si-smlsli?rss&amp;dop-ab-variant=&amp;seq-no=1" data-dot="title" data-article-link="true" data-reactid="259">Pornoherečka natáčela video pod vodou. Žraloci si smlsli</a>
+                   <span class="item__perex" data-reactid="260">Darwinovy ceny</span>
+                  </div>
+                 </div>
+                 <div class="item item--stream" data-reactid="261">
+                  <a class="item__img-wrap" href="https://www.stream.cz/hleda-se-leadr/10017517-tahle-slecna-vyhrala-soutez-hleda-se-leadr-volili-byste-ji-i-ve-volbach?rss&amp;dop-ab-variant=&amp;seq-no=2" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="262"><img class="smart-image item__img" alt="Tahle slečna vyhrála soutěž Hledá se LEADr.! Volili byste ji i ve volbách?" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/7AvBwBK.jpeg?fl=res,400,225,3" srcset="" data-reactid="263"><span class="item__img-overlay" data-reactid="264"></span><span class="item__img-text item__img-text--video-time" data-reactid="265">4:06</span></a>
+                  <div class="item__text-box" data-reactid="266">
+                   <a class="item__title link link--show-visited" href="https://www.stream.cz/hleda-se-leadr/10017517-tahle-slecna-vyhrala-soutez-hleda-se-leadr-volili-byste-ji-i-ve-volbach?rss&amp;dop-ab-variant=&amp;seq-no=2" data-dot="title" data-article-link="true" data-reactid="267">Tahle slečna vyhrála soutěž Hledá se LEADr.! Volili byste ji i ve volbách?</a>
+                   <span class="item__perex" data-reactid="268">HLEDÁ SE LEADr.</span>
+                  </div>
+                 </div>
+                 <div class="item item--stream" data-reactid="269">
+                  <a class="item__img-wrap" href="https://www.stream.cz/fizlarna/10017296-operace-6?rss&amp;dop-ab-variant=&amp;seq-no=3" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="270"><img class="smart-image item__img" alt="Čeho je schopná žárlivá žena? Tady jde o víc. Doslova o krk" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/2XMBrbW.jpeg?fl=res,400,225,3" srcset="" data-reactid="271"><span class="item__img-overlay" data-reactid="272"></span><span class="item__img-text item__img-text--video-time" data-reactid="273">15:29</span></a>
+                  <div class="item__text-box" data-reactid="274">
+                   <a class="item__title link link--show-visited" href="https://www.stream.cz/fizlarna/10017296-operace-6?rss&amp;dop-ab-variant=&amp;seq-no=3" data-dot="title" data-article-link="true" data-reactid="275">Čeho je schopná žárlivá žena? Tady jde o víc. Doslova o krk</a>
+                   <span class="item__perex" data-reactid="276">Fízlárna</span>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="277">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="71510" data-reactid="278">
+               <div class="gadget gadget--rss gadget--prozeny" data-dot="gadgetProzeny" data-reactid="279">
+                <div class="gadget__header" data-reactid="280">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="281">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="282"><span class="gadget__favicon-wrap" data-reactid="283"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/HM9BOlq.png" srcset="" data-reactid="284"></span><span class="gadget__title-text" data-reactid="285"><a class="link link--gadget-title" href="https://www.prozeny.cz/" data-reactid="286">Proženy</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="287">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="288"><span class="blind" data-reactid="289">
+                     <!-- react-text: 290 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 291 -->Proženy
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="292"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 293 -->
+                <div class="gadget__content" data-reactid="294">
+                 <div class="article article--first article--main article--normal-image" data-dot="1" data-reactid="295">
+                  <a class="article__img-wrap" href="https://www.prozeny.cz/clanek/nebezpecny-vysoky-tlak-zname-pet-zpusobu-jak-ho-snizit-bez-leku-31325" data-dot="pic" aria-hidden="true" tabindex="-1" data-reactid="296"><img class="smart-image article__img" alt="Nebezpečný vysoký tlak. Známe pět způsobů, jak ho snížit bez&nbsp;léků" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/sMZBvMY.jpeg?fl=res,450,253,3" srcset="" data-reactid="297"></a>
+                  <div class="article__text-box" data-reactid="298">
+                   <h3 data-reactid="299"><a class="article__title link link--show-visited" href="https://www.prozeny.cz/clanek/nebezpecny-vysoky-tlak-zname-pet-zpusobu-jak-ho-snizit-bez-leku-31325" data-article-link="true" data-reactid="300">
+                     <!-- react-text: 301 -->Nebezpečný vysoký tlak. Známe pět způsobů, jak ho snížit bez&nbsp;léků
+                     <!-- /react-text --></a></h3>
+                   <p class="article__perex" data-reactid="302">Možná se vám zdá, že v trochu pokročilejším věku trpí vysokým krevním tlakem každý druhý. Řeší ho…</p>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="2" data-reactid="303">
+                  <div class="article__text-box" data-reactid="304">
+                   <h3 data-reactid="305"><a class="article__title link link--show-visited" href="https://www.prozeny.cz/clanek/rychle-a-levne-pecene-kure-na-zelenine-si-zamilujete-31293" data-article-link="true" data-reactid="306">
+                     <!-- react-text: 307 -->Rychle a levně: Pečené kuře na zelenině si&nbsp;zamilujete
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article" data-dot="3" data-reactid="308">
+                  <div class="article__text-box" data-reactid="309">
+                   <h3 data-reactid="310"><a class="article__title link link--show-visited" href="https://www.prozeny.cz/clanek/muzi-versus-zeny-proc-delame-stejne-veci-uplne-jinak-31254" data-article-link="true" data-reactid="311">
+                     <!-- react-text: 312 -->Muži versus ženy: Proč děláme stejné věci úplně&nbsp;jinak
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                 <div class="article article--last" data-dot="4" data-reactid="313">
+                  <div class="article__text-box" data-reactid="314">
+                   <h3 data-reactid="315"><a class="article__title link link--show-visited" href="https://www.prozeny.cz/clanek/magie-uzlu-naucte-se-jak-si-privolat-lasku-31402" data-article-link="true" data-reactid="316">
+                     <!-- react-text: 317 -->Magie uzlů: Naučte se, jak si přivolat&nbsp;lásku
+                     <!-- /react-text --></a></h3>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="timeline" data-dot="z_internetu" data-reactid="318">
+              <h2 class="timeline__title" data-reactid="319">Další zajímavé články z českého internetu</h2>
+              <div data-reactid="320">
+               <ul class="timeline__list" data-reactid="321">
+                <li class="timeline__item" data-reactid="322">
+                 <div class="timeline-article" data-dot="1" data-reactid="323">
+                  <div class="timeline-article__header" data-reactid="324">
+                   <span class="timeline-article__source-icon-wrap" data-reactid="325"><img class="smart-image timeline-article__source-icon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/0DOBuZt.png" srcset="" data-reactid="326"></span>
+                   <a class="timeline-article__source-name link link--gadget-title" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.auto.cz%252F/Vu7aCx_JJSw2-pD_LGELZg?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" data-reactid="327">Auto.cz</a>
+                  </div>
+                  <div class="timeline-article__content" data-reactid="328">
+                   <a class="timeline-article__image-wrap" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.auto.cz%252Ftechrules-giugiaro-vezou-supersport-ren-turbinami-jezeru-como-106568/ZKoLZuf94gqgOmgGvyw3bg?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" aria-hidden="true" tabindex="-1" data-timeline-article-id="49774" data-reactid="329"><img class="smart-image timeline-article__image" alt="Techrules veze supersport Ren s turbínami k jezeru Como" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/oLrBv7y.jpeg?fl=res,384,216,3,000000" srcset="" data-reactid="330"></a>
+                   <div class="timeline-article__text-box" data-reactid="331">
+                    <h3 data-reactid="332"><a class="link link--show-visited timeline-article__title" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.auto.cz%252Ftechrules-giugiaro-vezou-supersport-ren-turbinami-jezeru-como-106568/ZKoLZuf94gqgOmgGvyw3bg?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" data-article-link="true" data-timeline-article-id="49774" data-reactid="333">Techrules veze supersport Ren s turbínami k jezeru&nbsp;Como</a></h3>
+                    <p class="timeline-article__perex" data-reactid="334">Concorso d'Eleganza u Villa d'Este představuje jednu z nejprestižnějších přehlídek automobilové…</p>
+                   </div>
+                  </div>
+                 </div></li>
+                <li class="timeline__item" data-reactid="335">
+                 <div class="timeline-article" data-dot="2" data-reactid="336">
+                  <div class="timeline-article__header" data-reactid="337">
+                   <span class="timeline-article__source-icon-wrap" data-reactid="338"><img class="smart-image timeline-article__source-icon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/LHOBuZJ.png" srcset="" data-reactid="339"></span>
+                   <a class="timeline-article__source-name link link--gadget-title" href="http://www.seznam.cz/r/https%253A%252F%252Fsamsungmagazine.eu%252F/IMGBtuZ3CdLxgcxowggq2w?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" data-reactid="340">Samsung Magazine</a>
+                  </div>
+                  <div class="timeline-article__content" data-reactid="341">
+                   <a class="timeline-article__image-wrap" href="http://www.seznam.cz/r/https%253A%252F%252Fsamsungmagazine.eu%252F2017%252F05%252F16%252Ftest-fotoaparatu-galaxy-s7-s8-podle-odborniku-dxomark-ktery-foti-lepe%252F/2PEouCGsdAtbNCcGrpOUdw?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" aria-hidden="true" tabindex="-1" data-timeline-article-id="49773" data-reactid="342"><img class="smart-image timeline-article__image" alt="Test fotoaparátů Galaxy S7 a S8 podle odborníků z DxOMark. Který fotí lépe?" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/TIgBwUl.jpeg?fl=res,384,216,3,000000" srcset="" data-reactid="343"></a>
+                   <div class="timeline-article__text-box" data-reactid="344">
+                    <h3 data-reactid="345"><a class="link link--show-visited timeline-article__title" href="http://www.seznam.cz/r/https%253A%252F%252Fsamsungmagazine.eu%252F2017%252F05%252F16%252Ftest-fotoaparatu-galaxy-s7-s8-podle-odborniku-dxomark-ktery-foti-lepe%252F/2PEouCGsdAtbNCcGrpOUdw?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" data-article-link="true" data-timeline-article-id="49773" data-reactid="346">Test fotoaparátů Galaxy S7 a S8 podle odborníků z DxOMark. Který fotí&nbsp;lépe?</a></h3>
+                    <p class="timeline-article__perex" data-reactid="347">Společnost Samsung bezesporu umí vyrobit telefon s výborným fotoaparátem. Důkazem budiž skvělé…</p>
+                   </div>
+                  </div>
+                 </div></li>
+                <li class="timeline__item" data-reactid="348">
+                 <div class="timeline-article" data-dot="3" data-reactid="349">
+                  <div class="timeline-article__header" data-reactid="350">
+                   <span class="timeline-article__source-icon-wrap" data-reactid="351"><img class="smart-image timeline-article__source-icon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/IPxBqOR.png" srcset="" data-reactid="352"></span>
+                   <a class="timeline-article__source-name link link--gadget-title" href="http://www.seznam.cz/r/https%253A%252F%252Fwww.letemsvetemapplem.eu/zb3wTYKdjJBKUyIKshn1Kw?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" data-reactid="353">Letem světem Applem</a>
+                  </div>
+                  <div class="timeline-article__content" data-reactid="354">
+                   <a class="timeline-article__image-wrap" href="http://www.seznam.cz/r/https%253A%252F%252Fwww.letemsvetemapplem.eu%252F2017%252F05%252F16%252Ffunkce-zpet-zatresenim-ios%252F/f1z0Y3K3ocj6a2sorRMd7g?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" aria-hidden="true" tabindex="-1" data-timeline-article-id="49772" data-reactid="355"><img class="smart-image timeline-article__image" alt="Jak používat a&nbsp;nastavit funkci Zpět zatřesením na iOS" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/4ooBwUv.jpeg?fl=res,384,216,3,000000" srcset="" data-reactid="356"></a>
+                   <div class="timeline-article__text-box" data-reactid="357">
+                    <h3 data-reactid="358"><a class="link link--show-visited timeline-article__title" href="http://www.seznam.cz/r/https%253A%252F%252Fwww.letemsvetemapplem.eu%252F2017%252F05%252F16%252Ffunkce-zpet-zatresenim-ios%252F/f1z0Y3K3ocj6a2sorRMd7g?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" data-article-link="true" data-timeline-article-id="49772" data-reactid="359">Jak používat a&nbsp;nastavit funkci Zpět zatřesením na&nbsp;iOS</a></h3>
+                    <p class="timeline-article__perex" data-reactid="360">Funkce Zpět zatřesením je tu s námi již pár let. Co jsem ale zatím vypozoroval, tak stále mnoho…</p>
+                   </div>
+                  </div>
+                 </div></li>
+                <li class="timeline__item" data-reactid="361">
+                 <div class="timeline-article" data-dot="4" data-reactid="362">
+                  <div class="timeline-article__header" data-reactid="363">
+                   <span class="timeline-article__source-icon-wrap" data-reactid="364"><img class="smart-image timeline-article__source-icon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_H_I/GdOBpfJ.png" srcset="" data-reactid="365"></span>
+                   <a class="timeline-article__source-name link link--gadget-title" href="http://www.seznam.cz/r/https%253A%252F%252Fvtm.zive.cz%252F/5iojyvve1Tcujyf0zOwdFQ?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" data-reactid="366">VTM</a>
+                  </div>
+                  <div class="timeline-article__content" data-reactid="367">
+                   <a class="timeline-article__image-wrap" href="http://www.seznam.cz/r/https%253A%252F%252Fvtm.zive.cz%252Fbleskovky%252Fnasa-rozlustila-zahadu-zablesku-svetla-odrazenych-nasi-planetou%252Fsc-871-a-187666%252Fdefault.aspx/N3oO_bYf3BiSwtJl53lGjA?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" aria-hidden="true" tabindex="-1" data-timeline-article-id="49771" data-reactid="368"><img class="smart-image timeline-article__image" alt="NASA rozluštila záhadu záblesků světla odrážených naší planetou" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_F_I/c0uBwZZ.jpeg?fl=res,384,216,3,000000" srcset="" data-reactid="369"></a>
+                   <div class="timeline-article__text-box" data-reactid="370">
+                    <h3 data-reactid="371"><a class="link link--show-visited timeline-article__title" href="http://www.seznam.cz/r/https%253A%252F%252Fvtm.zive.cz%252Fbleskovky%252Fnasa-rozlustila-zahadu-zablesku-svetla-odrazenych-nasi-planetou%252Fsc-871-a-187666%252Fdefault.aspx/N3oO_bYf3BiSwtJl53lGjA?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" data-article-link="true" data-timeline-article-id="49771" data-reactid="372">NASA rozluštila záhadu záblesků světla odrážených naší&nbsp;planetou</a></h3>
+                    <p class="timeline-article__perex" data-reactid="373">V roce 1993 si astronom Carl Sagan procházel obrázky Země pořízené kosmickou sondou Galileo a…</p>
+                   </div>
+                  </div>
+                 </div></li>
+                <li class="timeline__item" data-reactid="374">
+                 <div class=" ad-content" data-reactid="375"></div></li>
+                <li class="timeline__item" data-reactid="376">
+                 <div class="timeline-article" data-dot="5" data-reactid="377">
+                  <div class="timeline-article__header" data-reactid="378">
+                   <span class="timeline-article__source-icon-wrap" data-reactid="379"><img class="smart-image timeline-article__source-icon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_E_I/gmXBuZX.png" srcset="" data-reactid="380"></span>
+                   <a class="timeline-article__source-name link link--gadget-title" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.autoforum.cz%252F/iZBooWvZXwQYi1VEMhDqXg?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" data-reactid="381">Auto fórum</a>
+                  </div>
+                  <div class="timeline-article__content" data-reactid="382">
+                   <a class="timeline-article__image-wrap" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.autoforum.cz%252Fzivot-ridice%252F10-aut-ktera-si-majitele-nechavaji-nejdele-s-temito-nemohou-byt-problemy%252F/qqJ7f2BlUjuozuuxDGklnQ?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" aria-hidden="true" tabindex="-1" data-timeline-article-id="49769" data-reactid="383"><img class="smart-image timeline-article__image" alt="Auta, která si majitelé nechávají nejdéle" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_H_I/h4rBqde.jpeg?fl=res,384,216,3,000000" srcset="" data-reactid="384"></a>
+                   <div class="timeline-article__text-box" data-reactid="385">
+                    <h3 data-reactid="386"><a class="link link--show-visited timeline-article__title" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.autoforum.cz%252Fzivot-ridice%252F10-aut-ktera-si-majitele-nechavaji-nejdele-s-temito-nemohou-byt-problemy%252F/qqJ7f2BlUjuozuuxDGklnQ?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" data-article-link="true" data-timeline-article-id="49769" data-reactid="387">Auta, která si majitelé nechávají&nbsp;nejdéle</a></h3>
+                    <p class="timeline-article__perex" data-reactid="388">Čím problematičtější nějaké auto je, tím rychleji se ho chcete zbavit - a naopak. Statistika, jaká…</p>
+                   </div>
+                  </div>
+                 </div></li>
+                <li class="timeline__item" data-reactid="389">
+                 <div class="timeline-article" data-dot="6" data-reactid="390">
+                  <div class="timeline-article__header" data-reactid="391">
+                   <span class="timeline-article__source-icon-wrap" data-reactid="392"><img class="smart-image timeline-article__source-icon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/u6wBqPZ.png" srcset="" data-reactid="393"></span>
+                   <a class="timeline-article__source-name link link--gadget-title" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.ireport.cz/gLeLuyYJ7ja9eFDGhV6HnQ?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" data-reactid="394">iREPORT</a>
+                  </div>
+                  <div class="timeline-article__content" data-reactid="395">
+                   <a class="timeline-article__image-wrap" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.ireport.cz%252Ftop-7-maskovanych-kapel-kiss-slipknot-marilyn-manson-a-dalsi-bubaci/M7cJiAB4u3nEeIQg1y6j_A?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" aria-hidden="true" tabindex="-1" data-timeline-article-id="49768" data-reactid="396"><img class="smart-image timeline-article__image" alt="Maskované kapely: Kiss, Slipknot, Marilyn Manson a další bubáci" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_H_I/VgzBqVM.jpeg?fl=res,384,216,3,000000" srcset="" data-reactid="397"></a>
+                   <div class="timeline-article__text-box" data-reactid="398">
+                    <h3 data-reactid="399"><a class="link link--show-visited timeline-article__title" href="http://www.seznam.cz/r/http%253A%252F%252Fwww.ireport.cz%252Ftop-7-maskovanych-kapel-kiss-slipknot-marilyn-manson-a-dalsi-bubaci/M7cJiAB4u3nEeIQg1y6j_A?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu" rel="nofollow" data-article-link="true" data-timeline-article-id="49768" data-reactid="400">Maskované kapely: Kiss, Slipknot, Marilyn Manson a další&nbsp;bubáci</a></h3>
+                    <p class="timeline-article__perex" data-reactid="401">Umět zahrát nejlepší sólo na kytaru a vyzpívat nejvyšší tóny jsou jistě ctnosti, po kterých prahne…</p>
+                   </div>
+                  </div>
+                 </div></li>
+               </ul>
+              </div>
+              <div class="timeline__foot" data-reactid="402">
+               <button type="button" class="button button--submit timeline__load-button" data-dot="more-button" data-fallback="true" data-reactid="403">Načíst další články</button>
+              </div>
+             </div>
+            </div>
+            <div class="draggable-content gadget-layout__column--2 gadget-layout__column gadget-layout__column--last" data-draggable-content="true" data-draggable-content-id="1" data-dot="col_2" data-reactid="404">
+             <div class="gadget-container animated-height" data-reactid="405">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="184" data-reactid="406">
+               <div class="gadget gadget--email gadget--email-seznam" data-dot="gadgetEmail" data-reactid="407">
+                <div class="gadget__header" data-reactid="408">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="409">
+                  <h2 class="gadget__title" data-reactid="410"><span class="gadget__title-text" data-reactid="411"><a class="link link--gadget-title" href="https://email.seznam.cz/" data-reactid="412">Email</a></span></h2>
+                 </div>
+                 <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="413">
+                  <a class="gadget__control link" href="https://registrace.seznam.cz/" data-reactid="414">Založit nový e-mail</a>
+                 </div>
+                </div>
+                <!-- react-empty: 415 -->
+                <div class="gadget__content" data-reactid="416">
+                 <div class="content-unlogged" data-reactid="417">
+                  <div class="animated-height animated-height--hidden animated-height--hiding-ended" data-reactid="418">
+                   <div class="show-login-form" data-reactid="419">
+                    <div class="expander expander--line-bottom" data-reactid="420">
+                     <button class="expander__button" type="button" data-fallback="true" data-reactid="421"><span class="expander__button-in" data-reactid="422">Zobrazit přihlášení do Emailu</span><span class="expander__line" data-reactid="423"><span class="expander__line-part expander__line-part--left" data-reactid="424"><span class="expander__line-part-in" data-reactid="425"></span></span><span class="expander__line-part expander__line-part--right" data-reactid="426"><span class="expander__line-part-in" data-reactid="427"></span></span><span class="expander__line-icon iconfont-down-bold" data-reactid="428"></span></span></button>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="animated-height" data-reactid="429">
+                   <form class="login-form" action="https://login.szn.cz/loginProcess" method="post" data-reactid="430">
+                    <input type="hidden" name="returnURL" value="https://email.seznam.cz" data-reactid="431">
+                    <input type="hidden" name="serviceId" value="email" data-reactid="432">
+                    <input type="hidden" name="forceSSL" value="1" data-reactid="433">
+                    <div class="login-form__line" data-reactid="434">
+                     <div class="login-form__domain" data-reactid="435">
+                      <div class="custom-select--gadget-email-login-form custom-select" tabindex="-1" data-name="domain" data-selected-index="0" data-value="seznam.cz" data-reactid="436">
+                       <label class="blind" for="" data-reactid="437">Doména emailu</label>
+                       <select id="" class="select custom-select__native-select" name="domain" data-reactid="438"><option selected value="seznam.cz" data-reactid="439">@seznam.cz</option><option value="email.cz" data-reactid="440">@email.cz</option><option value="post.cz" data-reactid="441">@post.cz</option><option value="spoluzaci.cz" data-reactid="442">@spoluzaci.cz</option><option value="stream.cz" data-reactid="443">@stream.cz</option><option value="firmy.cz" data-reactid="444">@firmy.cz</option><option value="" data-reactid="445">vlastní adresa</option></select>
+                      </div>
+                     </div>
+                     <label class="login-form__input-wrap" data-reactid="446"><span class="blind" data-reactid="447">jméno</span><input type="text" class="input input--on-left login-form__input login-form__input--username" name="username" placeholder="jméno" value="" data-reactid="448"></label>
+                    </div>
+                    <div class="login-form__line" data-reactid="449">
+                     <div class="input-w-button login-form__input-w-button" data-reactid="450">
+                      <label class="input-w-button__input-wrap" data-reactid="451"><span class="blind" data-reactid="452">Heslo</span><input type="password" class="input input--on-left input-w-button__input login-form__input" name="password" placeholder="heslo" value="" data-reactid="453"></label>
+                      <button type="submit" class="button button--submit button--with-input input-w-button__button " data-reactid="454">Přejít do Emailu</button>
+                     </div>
+                    </div>
+                    <div class="login-form__bottom" data-reactid="455">
+                     <label class="fancy-checkbox fancy-checkbox--checked" title="Po zaškrtnutí zůstanete na domovské stránce Seznam.cz i při příští návštěvě přihlášený/á" data-reactid="456"><span class="fancy-checkbox__content" data-reactid="457"><input type="checkbox" class="fancy-checkbox__native-checkbox" checked name="remember" value="1" autocomplete="off" data-reactid="458"><span class="fancy-checkbox__checkbox iconfont-check" data-reactid="459"></span><span class="fancy-checkbox__text" data-reactid="460">Pamatovat si mě</span></span></label>
+                    </div>
+                    <div class="login-form__hide" data-reactid="461">
+                     <div class="expander expander--line-top" data-reactid="462">
+                      <button class="expander__button" type="button" data-fallback="true" data-reactid="463"><span class="expander__line" data-reactid="464"><span class="expander__line-part expander__line-part--left" data-reactid="465"><span class="expander__line-part-in" data-reactid="466"></span></span><span class="expander__line-part expander__line-part--right" data-reactid="467"><span class="expander__line-part-in" data-reactid="468"></span></span><span class="expander__line-icon iconfont-up-bold" data-reactid="469"></span></span><span class="expander__button-in" data-reactid="470">Skrýt přihlášení do Emailu</span></button>
+                     </div>
+                    </div>
+                   </form>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="471">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="183" data-reactid="472">
+               <div class="gadget gadget--sluzby resp-weather-down" data-dot="gadgetSluzby" data-reactid="473">
+                <div class="gadget__header" data-reactid="474">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="475">
+                  <h2 class="gadget__title" data-reactid="476"><span class="gadget__title-text" data-reactid="477">
+                    <!-- react-text: 478 -->Služby
+                    <!-- /react-text --></span></h2>
+                 </div>
+                </div>
+                <div class="gadget__promo style-tags" data-dot="gadgetPromo" data-reactid="479">
+                 <span data-reactid="480"><a href="https://search.seznam.cz/?sId=ZhzBewxrHHiqo-dV3Ksv&amp;sourceid=top&amp;q=ms+v+hokeji+2017&amp;sgId=RcuT0MI-hxA8YRPIhGPmThwokS-iTnw7znpbYGmokq==&amp;oq=ms+v+hokeji+2017&amp;aq=-1&amp;su=e">MS v hokeji 2017: Přehled zápasů, výsledky…</a></span>
+                </div>
+                <div class="gadget__content" data-reactid="481">
+                 <div class="sluzby-layout" data-reactid="482">
+                  <div class="sluzby-layout__item services" data-reactid="483">
+                   <ul class="services__list" data-reactid="484">
+                    <li class="services__item" data-reactid="485"><span data-reactid="486"><a class="services__link link link--show-visited" href="https://www.kupi.cz/slevy" title="Probíhající akce a slevy v obchodech" data-reactid="487">Akce</a><span class="services__sep" data-reactid="488">/</span><a class="services__link link link--show-visited" href="https://www.kupi.cz/letaky" title="Aktuální akční letáky se slevami v obchodech" data-reactid="489">Letáky</a></span></li>
+                    <li class="services__item" data-reactid="490"><span data-reactid="491"><a class="services__link link link--show-visited" href="https://www.sauto.cz/" title="Nabídka nových i ojetých automobilů" data-reactid="492">Auto</a><span class="services__sep" data-reactid="493">/</span><a class="services__link link link--show-visited" href="https://www.smoto.cz/" title="Nabídka nových i ojetých motocyklů a čtyřkolek" data-reactid="494">Moto</a></span></li>
+                    <li class="services__item" data-reactid="495"><span data-reactid="496"><a class="services__link link link--show-visited" href="https://www.sbazar.cz/" title="Když něco sháníte nebo nabízíte" data-reactid="497">Bazar</a></span></li>
+                    <li class="services__item" data-reactid="498"><span data-reactid="499"><a class="services__link link link--show-visited" href="https://www.novinky.cz/denni-tisk" title="Přehled článků z médií" data-reactid="500">Deníky</a></span></li>
+                    <li class="services__item" data-reactid="501"><span data-reactid="502"><a class="services__link link link--show-visited" href="https://www.sdovolena.cz/" title="Nabídka zájezdů a dovolených do celého světa" data-reactid="503">Dovolená</a></span></li>
+                    <li class="services__item" data-reactid="504"><span data-reactid="505"><a class="services__link link link--show-visited" href="https://www.hry.cz/" title="Online, na počítač, mobil i konzoli" data-reactid="506">Hry</a></span></li>
+                    <li class="services__item" data-reactid="507"><span data-reactid="508"><a class="services__link link link--show-visited" href="https://www.lide.cz/" title="Seznamka a chat" data-reactid="509">Lidé</a></span></li>
+                    <li class="services__item" data-reactid="510"><span data-reactid="511"><a class="services__link link link--show-visited" href="https://mapy.cz/" title="Vyhledávání v mapě a plánování tras" data-reactid="512">Mapy</a></span></li>
+                    <li class="services__item" data-reactid="513"><span data-reactid="514"><a class="services__link link link--show-visited" href="https://www.stream.cz/pohadky" title="Večerníčkové příběhy, tvořivé vychytávečky a ukolébavky" data-reactid="515">Pohádky</a></span></li>
+                    <li class="services__item" data-reactid="516"><span data-reactid="517"><a class="services__link link link--show-visited" href="/prohlizec" title="Svižný a bezpečný prohlížeč od Seznamu" data-reactid="518">Prohlížeč</a></span></li>
+                    <li class="services__item" data-reactid="519"><span data-reactid="520"><a class="services__link link link--show-visited" href="https://www.sreality.cz/" title="Byty, domy a pozemky k pronájmu i na prodej" data-reactid="521">Reality</a></span></li>
+                    <li class="services__item" data-reactid="522"><span data-reactid="523"><a class="services__link link link--show-visited" href="/sms" title="Posílání SMS zdarma" data-reactid="524">SMS brána</a></span></li>
+                    <li class="services__item" data-reactid="525"><span data-reactid="526"><a class="services__link link link--show-visited" href="https://www.spoluzaci.cz/" title="Pro komunikaci s vaší současnou i bývalou třídou" data-reactid="527">Spolužáci</a></span></li>
+                    <li class="services__item" data-reactid="528"><span data-reactid="529"><a class="services__link link link--show-visited" href="https://www.volnamista.cz/" title="Nabídky zaměstnání" data-reactid="530">Volná místa</a></span></li>
+                    <li class="services__item" data-reactid="531"><span data-reactid="532"><a class="services__link link link--show-visited" href="https://www.zbozi.cz/" title="Nabídka internetových obchodů na jednom místě" data-reactid="533">Zboží</a><span class="services__sep" data-reactid="534">/</span><a class="services__link link link--show-visited" href="https://www.zbozi.cz/obleceni-a-moda/?utm_source=HP_Seznam&amp;utm_medium=seznam_sluzeb" title="" data-reactid="535">Móda</a></span></li>
+                   </ul>
+                  </div>
+                  <div class="sluzby-layout__item weather" data-dot="weather" data-reactid="536">
+                   <div class="weather__content" data-reactid="537">
+                    <div class="weather__header" data-reactid="538">
+                     <h3 class="weather__title" data-reactid="539"><a class="link link--gadget-title" href="//pocasi.seznam.cz/" data-dot="link-pocasi" data-reactid="540">Počasí</a></h3>
+                     <div class="weather__location" data-reactid="541">
+                      <span class="weather__picker" data-reactid="542"><button data-dot="pick-location" class="action action--popover" type="button" data-fallback="true" data-reactid="543"><span class="action__content" data-reactid="544"><span class="action__text" data-reactid="545">Česká republika</span><span class="action__icon-wrap" data-reactid="546"><span class="action__icon iconfont-down-bold" data-reactid="547"></span></span></span></button></span>
+                     </div>
+                     <div class="weather__header-wind" data-reactid="548">
+                      <a class="weather__header-wind-link link" href="https://www.windy.com/?utm_source=www.seznam.cz&amp;utm_medium=homepage_boxikpocasi" target="_blank" data-dot="windytv" data-reactid="549">Předpověď větru</a>
+                     </div>
+                    </div>
+                    <a class="weather__forecast focusable-box" href="//pocasi.seznam.cz/" data-dot="forecast" data-reactid="550">
+                     <ul class="weather__forecast-list" data-reactid="551">
+                      <li class="weather__forecast-item" data-reactid="552"><span class="weather__forecast-image-wrap" data-reactid="553"><img class="smart-image weather__forecast-image" alt="Oblačno" title="Oblačno" style="opacity:1;" src="/media/img/weather/day13.png" srcset="" data-reactid="554"></span><span class="weather__forecast-desc" data-reactid="555"><span class="weather__forecast-temp" data-reactid="556"><span class="weather__forecast-temp-value" data-reactid="557">18</span>
+                         <!-- react-text: 558 --> 
+                         <!-- /react-text --><span class="weather__forecast-temp-unit" data-reactid="559">°C</span></span><span class="weather__forecast-title" data-reactid="560">Odpoledne</span></span></li>
+                      <li class="weather__forecast-item" data-reactid="561"><span class="weather__forecast-image-wrap" data-reactid="562"><img class="smart-image weather__forecast-image" alt="Oblačno" title="Oblačno" style="opacity:1;" src="/media/img/weather/day13.png" srcset="" data-reactid="563"></span><span class="weather__forecast-desc" data-reactid="564"><span class="weather__forecast-temp" data-reactid="565"><span class="weather__forecast-temp-value" data-reactid="566">14</span>
+                         <!-- react-text: 567 --> 
+                         <!-- /react-text --><span class="weather__forecast-temp-unit" data-reactid="568">°C</span></span><span class="weather__forecast-title" data-reactid="569">Večer</span></span></li>
+                      <li class="weather__forecast-item" data-reactid="570"><span class="weather__forecast-image-wrap" data-reactid="571"><img class="smart-image weather__forecast-image" alt="Polojasno" title="Polojasno" style="opacity:1;" src="/media/img/weather/night02.png" srcset="" data-reactid="572"></span><span class="weather__forecast-desc" data-reactid="573"><span class="weather__forecast-temp" data-reactid="574"><span class="weather__forecast-temp-value" data-reactid="575">8</span>
+                         <!-- react-text: 576 --> 
+                         <!-- /react-text --><span class="weather__forecast-temp-unit" data-reactid="577">°C</span></span><span class="weather__forecast-title" data-reactid="578">V noci</span></span></li>
+                     </ul></a>
+                    <div class="weather__more" data-reactid="579">
+                     <a class="link" href="https://www.windy.com/?utm_source=www.seznam.cz&amp;utm_medium=homepage_boxikpocasi" target="_blank" data-dot="windytv" data-reactid="580">Předpověď větru</a>
+                    </div>
+                   </div>
+                   <div class="weather__loader-wrap" data-reactid="581">
+                    <div class="weather__loader" data-reactid="582"></div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="583">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="94888" data-reactid="584">
+               <div data-dot="gadgetCommercial" class="gadget gadget--reklama ad-content" data-reactid="585">
+                <div class="gadget__header" data-reactid="586">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="587">
+                  <h2 class="gadget__advert-title" data-reactid="588">Reklama</h2>
+                 </div>
+                </div>
+                <div class="gadget__content" data-reactid="589">
+                 <div data-dnd-content-ignore="true" data-reactid="590">
+                  <div class="ad-button-advert ad-button-advert--placeholder" data-reactid="591"></div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="592">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="182" data-reactid="593">
+               <div class="gadget gadget--firmy" data-dot="gadgetFirmy" data-reactid="594">
+                <div class="gadget__header" data-reactid="595">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="596">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="597"><span class="gadget__favicon-wrap" data-reactid="598"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/BYDBTiE.png" srcset="" data-reactid="599"></span><span class="gadget__title-text" data-reactid="600"><a class="link link--gadget-title" href="https://www.firmy.cz/" data-reactid="601">Firmy</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="602">
+                   <a class="gadget__control link" href="https://www.seznam.cz/pro-firmy#utm_source=seznam.cz&amp;utm_medium=link&amp;utm_campaign=naplno" data-dot="pridat-firmu" data-reactid="603">Přidat firmu</a>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 604 -->
+                <div class="gadget__content" data-reactid="605">
+                 <div class="company" data-reactid="606">
+                  <a class="company__image-wrap" href="https://www.firmy.cz/detail/12931846-elite-dental-praha-stare-mesto.html#utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Stomatologické ordinace a pracoviště&amp;utm_content=image" title="Zobrazit detail firmy Elite Dental na Firmy.cz" aria-hidden="true" tabindex="-1" data-reactid="607"><img class="smart-image company__image" alt="Fotografie Elite Dental" style="opacity:1;" src="//img.firmy.cz/premise/full/201504/0918/49/5526c0c249e2e81a9d1b0b00?v=1" srcset="" data-reactid="608"></a>
+                  <div class="company__info" data-reactid="609">
+                   <h3 data-reactid="610"><a class="company__name link" href="https://www.firmy.cz/detail/12931846-elite-dental-praha-stare-mesto.html#utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Stomatologické ordinace a pracoviště&amp;utm_content=title" title="Zobrazit detail firmy Elite Dental na Firmy.cz" data-reactid="611">Elite Dental</a></h3>
+                   <div class="company__category" data-reactid="612">
+                    Protézy a implantáty
+                   </div>
+                   <ul class="company__contact-list" data-reactid="613">
+                    <li class="company__contact-item" data-reactid="614"><a class="link" href="http://www.elitedental.cz#utm_source=www.seznam.cz&amp;utm_medium=ppd&amp;utm_term=Stomatologické ordinace a pracoviště&amp;utm_campaign=firmy.cz-12931846" title="Webové stránky firmy Elite Dental" data-reactid="615">Web</a></li>
+                    <li class="company__contact-item" data-reactid="616"><a class="link" href="https://www.mapy.cz/zakladni?planovani-trasy&amp;rs=&amp;rs=firm&amp;ri=&amp;ri=12931846&amp;rc=9hAyGxXw-9&amp;mrp=&amp;mrp=%7B%22c%22%3A1%2C%22tt%22%3A1%7D" title="Naplánovat trasu do firmy Elite Dental" data-reactid="617">Trasa</a></li>
+                    <li class="company__contact-item" data-reactid="618">222 510 888</li>
+                   </ul>
+                   <div class="company__address" data-reactid="619">
+                    Na Příkopě 583/15, Praha
+                   </div>
+                  </div>
+                 </div>
+                 <div data-reactid="620">
+                  <div class="firmy-links resp-4-cols" data-reactid="621">
+                   <ul class="firmy-links__anim-height animated-height" data-reactid="622">
+                    <li class="firmy-links__item" data-reactid="623"><a class="link link--show-visited" title="Autobazary na Firmy.cz" href="https://www.firmy.cz/Auto-moto/Auto-moto-prodejci/Autobazary#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Autobazary&amp;utm_content=query" data-reactid="624">Autobazary</a></li>
+                    <li class="firmy-links__item" data-reactid="625"><a class="link link--show-visited" title="Realitky na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Reality/Realitni-kancelare#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Realitní kanceláře&amp;utm_content=query" data-reactid="626">Realitky</a></li>
+                    <li class="firmy-links__item" data-reactid="627"><a class="link link--show-visited" title="Dovolená na Firmy.cz" href="https://www.firmy.cz/Cestovni-sluzby/Cestovni-kancelare-a-agentury#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Cestovní kanceláře a agentury&amp;utm_content=query" data-reactid="628">Dovolená</a></li>
+                    <li class="firmy-links__item" data-reactid="629"><a class="link link--show-visited" title="Nábytek na Firmy.cz" href="https://www.firmy.cz/Obchody-a-obchudky/Prodejci-nabytku#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Prodej nábytku&amp;utm_content=query" data-reactid="630">Nábytek</a></li>
+                    <li class="firmy-links__item" data-reactid="631"><a class="link link--show-visited" title="Penziony na Firmy.cz" href="https://www.firmy.cz/Cestovni-sluzby/Ubytovaci-sluzby/Penziony#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Penziony&amp;utm_content=query" data-reactid="632">Penziony</a></li>
+                    <li class="firmy-links__item" data-reactid="633"><a class="link link--show-visited" title="Stěhování na Firmy.cz" href="https://www.firmy.cz/Vse-pro-firmy/Sluzby-pro-firmy/Stehovani#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Stěhování&amp;utm_content=query" data-reactid="634">Stěhování</a></li>
+                    <li class="firmy-links__item" data-reactid="635"><a class="link link--show-visited" title="Hotely na Firmy.cz" href="https://www.firmy.cz/Cestovni-sluzby/Ubytovaci-sluzby/Hotely#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Hotely&amp;utm_content=query" data-reactid="636">Hotely</a></li>
+                    <li class="firmy-links__item" data-reactid="637"><a class="link link--show-visited" title="Okna na Firmy.cz" href="https://www.firmy.cz/Obchody-a-obchudky/Prodejci-stavebnin/Prodejci-stavebnich-prvku/Okna-a-dvere/Prodej-a-montaz-plastovych-oken#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Prodej a montáž plastových oken&amp;utm_content=query" data-reactid="638">Okna</a></li>
+                    <li class="firmy-links__item" data-reactid="639"><a class="link link--show-visited" title="Pneuservisy na Firmy.cz" href="https://www.firmy.cz/Auto-moto/Auto-moto-sluzby/Autoservisy/Pneuservisy#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Pneuservisy&amp;utm_content=query" data-reactid="640">Pneuservisy</a></li>
+                    <li class="firmy-links__item" data-reactid="641"><a class="link link--show-visited" title="Kadeřnictví na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Kadernictvi/Damska-kadernictvi#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Dámská kadeřnictví&amp;utm_content=query" data-reactid="642">Kadeřnictví</a></li>
+                    <li class="firmy-links__item" data-reactid="643"><a class="link link--show-visited" title="Lázně na Firmy.cz" href="https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni/Lazne#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Lázně&amp;utm_content=query" data-reactid="644">Lázně</a></li>
+                    <li class="firmy-links__item" data-reactid="645"><a class="link link--show-visited" title="Jazykové školy na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Vyukove-sluzby/Jazykove-skoly#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Jazykové školy&amp;utm_content=query" data-reactid="646">Jazykové školy</a></li>
+                    <li class="firmy-links__item" data-reactid="647"><a class="link link--show-visited" title="Pneumatiky na Firmy.cz" href="https://www.firmy.cz/Auto-moto/Auto-moto-prodejci/Prodejci-nahradnich-dilu-a-autodoplnku/Pneumatiky#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Prodej pneumatik&amp;utm_content=query" data-reactid="648">Pneumatiky</a></li>
+                    <li class="firmy-links__item" data-reactid="649"><a class="link link--show-visited" title="Kosmetika na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Kosmeticke-salony#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Kosmetika a kosmetické salóny&amp;utm_content=query" data-reactid="650">Kosmetika</a></li>
+                    <li class="firmy-links__item" data-reactid="651"><a class="link link--show-visited" title="Erotika na Firmy.cz" href="https://www.firmy.cz/Eroticke_firmy#utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Erotické firmy&amp;utm_content=query" data-reactid="652">Erotika</a></li>
+                    <li class="firmy-links__item" data-reactid="653"><a class="link link--show-visited" title="Masáže na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Masazni-salony#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Masáže&amp;utm_content=query" data-reactid="654">Masáže</a></li>
+                    <li class="firmy-links__item" data-reactid="655"><a class="link link--show-visited" title="Stavební firmy na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Stavebni-sluzby/Stavebni-firmy#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Stavební firmy&amp;utm_content=query" data-reactid="656">Stavební firmy</a></li>
+                    <li class="firmy-links__item" data-reactid="657"><a class="link link--show-visited" title="Kuchyně na Firmy.cz" href="https://www.firmy.cz/Obchody-a-obchudky/Prodejci-nabytku/Prodejci-bytoveho-nabytku/Prodejci-kuchyni#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Prodej kuchyní&amp;utm_content=query" data-reactid="658">Kuchyně</a></li>
+                    <li class="firmy-links__item" data-reactid="659"><a class="link link--show-visited" title="Veterina na Firmy.cz" href="https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Veterinarni-pece/Veterinarni-ordinace#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Veterinární ordinace&amp;utm_content=query" data-reactid="660">Veterina</a></li>
+                    <li class="firmy-links__item" data-reactid="661"><a class="link link--show-visited" title="Řemeslníci na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Remesla#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Řemesla&amp;utm_content=query" data-reactid="662">Řemeslníci</a></li>
+                    <li class="firmy-links__item" data-reactid="663"><a class="link link--show-visited" title="Pojištění na Firmy.cz" href="https://www.firmy.cz/Banky-a-financni-sluzby/Pojistovaci-sluzby#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Pojišťovací služby&amp;utm_content=query" data-reactid="664">Pojištění</a></li>
+                    <li class="firmy-links__item" data-reactid="665"><a class="link link--show-visited" title="Zámečnictví na Firmy.cz" href="https://www.firmy.cz/Remesla-a-sluzby/Remesla/Zamecnictvi#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Zámečnictví&amp;utm_content=query" data-reactid="666">Zámečnictví</a></li>
+                    <li class="firmy-links__item" data-reactid="667"><a class="link link--show-visited" title="Autoservisy na Firmy.cz" href="https://www.firmy.cz/Auto-moto/Auto-moto-sluzby/Autoservisy#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Autoservisy&amp;utm_content=query" data-reactid="668">Autoservisy</a></li>
+                    <li class="firmy-links__item" data-reactid="669"><a class="link link--show-visited" title="Půjčky na Firmy.cz" href="https://www.firmy.cz/Banky-a-financni-sluzby/Uvery-a-pujcky#lokalita=auto&amp;utm_medium=hp-box&amp;utm_source=seznam.cz&amp;utm_term=Úvěry a půjčky&amp;utm_content=query" data-reactid="670">Půjčky</a></li>
+                   </ul>
+                  </div>
+                  <div class="firmy-links__expander-wrap" data-reactid="671">
+                   <div class="expander expander--line-top" data-reactid="672">
+                    <button class="expander__button" type="button" data-fallback="true" data-reactid="673"><span class="expander__line" data-reactid="674"><span class="expander__line-part expander__line-part--left" data-reactid="675"><span class="expander__line-part-in" data-reactid="676"></span></span><span class="expander__line-part expander__line-part--right" data-reactid="677"><span class="expander__line-part-in" data-reactid="678"></span></span><span class="expander__line-icon iconfont-up-bold" data-reactid="679"></span></span><span class="expander__button-in" data-reactid="680">Zobrazit méně</span></button>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="681">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="185" data-reactid="682">
+               <div class="gadget gadget--horoskopy" data-dot="gadgetHoroskopy" data-reactid="683">
+                <div class="gadget__header" data-reactid="684">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="685">
+                  <h2 class="gadget__title" data-reactid="686"><span class="gadget__title-text" data-reactid="687"><a class="link link--gadget-title" href="https://www.horoskopy.cz/" data-reactid="688">Horoskopy</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="689">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="690"><span class="blind" data-reactid="691">
+                     <!-- react-text: 692 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 693 -->Horoskopy
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="694"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 695 -->
+                <div class="gadget__content" data-reactid="696">
+                 <div class="horoscope" data-reactid="697">
+                  <a class="horoscope__img-wrap" href="https://www.horoskopy.cz/beran/" aria-hidden="true" tabindex="-1" data-reactid="698"><img class="smart-image horoscope__img" alt="Beran" style="opacity:1;" src="/media/img/zodiac/1.png" srcset="" data-reactid="699"></a>
+                  <p class="horoscope__text-box" data-reactid="700"><strong class="horoscope__title" data-reactid="701">Beran</strong>
+                   <!-- react-text: 702 --> 
+                   <!-- /react-text --><span class="horoscope__desc" data-reactid="703">Merkur se dnes přesouvá do plodného znamení Býka, takže se budete moci těšit z…</span><a class="horoscope__more link" href="https://www.horoskopy.cz/beran/" data-reactid="704">Celý horoskop »</a></p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="705">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="180" data-reactid="706">
+               <div class="gadget gadget--tv" data-dot="gadgetTV" data-reactid="707">
+                <div class="gadget__header" data-reactid="708">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="709">
+                  <h2 class="gadget__title" data-reactid="710"><span class="gadget__title-text" data-reactid="711"><a class="link link--gadget-title" href="https://tv.seznam.cz/" data-reactid="712">TV program</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="713">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="714"><span class="blind" data-reactid="715">
+                     <!-- react-text: 716 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 717 -->TV program
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="718"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 719 -->
+                <div class="gadget__content" data-reactid="720">
+                 <div data-reactid="721">
+                  <div class="tv-tabs" data-reactid="722">
+                   <ul class="tv-tabs__list tabs-with-pointer" data-reactid="723">
+                    <li class="tv-tabs__tab tabs-with-pointer__tab tabs-with-pointer__tab--active" data-reactid="724"><button class="tv-tabs__button tab-button tab-button--active" type="button" data-fallback="true" data-reactid="725"><span class="tab-button__title-inactive" data-reactid="726">Právě běží</span><span class="tab-button__title-active" data-reactid="727">Právě běží</span></button><span class="tabs-with-pointer__pointer" data-reactid="728"><span class="tabs-with-pointer__pointer-left-line" data-reactid="729"></span><span class="tabs-with-pointer__pointer-image" data-reactid="730"> 
+                       <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="28" height="8" viewbox="0 0 28 8" class="svg-tab-pointer"> 
+                        <path class="svg-tab-pointer__fill" fill="#fff" d="M 2,9 2,7.5 C 11,7 10,1 14,1 18,1 17,7 26,7.5 L 26,9" /> 
+                        <path class="svg-tab-pointer__path" fill="none" stroke="#cccccc" stroke-width="1" stroke-miterlimit="4" stroke-linecap="square" stroke-linejoin="miter" d="M -9.5,7.5 2,7.5 C 11,7 10,1 14,1 c 4,0 3,6 12,6.5 l 11.5,0" /> 
+                       </svg> </span><span class="tabs-with-pointer__pointer-right-line" data-reactid="731"></span></span></li>
+                    <li class="tv-tabs__tab tabs-with-pointer__tab tabs-with-pointer__tab--inactive" data-reactid="732"><button class="tv-tabs__button tab-button" type="button" data-fallback="true" data-reactid="733"><span class="tab-button__title-inactive" data-reactid="734">16:00</span><span class="tab-button__title-active" data-reactid="735">16:00</span></button></li>
+                    <li class="tv-tabs__tab tabs-with-pointer__tab tabs-with-pointer__tab--inactive" data-reactid="736"><button class="tv-tabs__button tab-button" type="button" data-fallback="true" data-reactid="737"><span class="tab-button__title-inactive" data-reactid="738">18:00</span><span class="tab-button__title-active" data-reactid="739">18:00</span></button></li>
+                    <li class="tv-tabs__tab tabs-with-pointer__tab tabs-with-pointer__tab--inactive" data-reactid="740"><button class="tv-tabs__button tab-button" type="button" data-fallback="true" data-reactid="741"><span class="tab-button__title-inactive" data-reactid="742">20:00</span><span class="tab-button__title-active" data-reactid="743">20:00</span></button></li>
+                   </ul>
+                   <div class="tv-tabs__bottom-line" data-reactid="744"></div>
+                  </div>
+                  <a name="gadget-tv-section-start" tabindex="-1" data-reactid="745"></a>
+                  <div class="running" data-reactid="746">
+                   <div class="running-show" data-reactid="747">
+                    <span class="running-show__begin" data-reactid="748"><span class="blind" data-reactid="749">od</span>
+                     <!-- react-text: 750 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 751 -->14:00
+                     <!-- /react-text --></span>
+                    <span class="running-show__progress" data-reactid="752"><span class="running-show__progress-perc" style="width:62%;" data-reactid="753"></span></span>
+                    <span class="running-show__end" data-reactid="754"><span class="blind" data-reactid="755">do</span>
+                     <!-- react-text: 756 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 757 -->14:45
+                     <!-- /react-text --></span>
+                    <a class="running-show__title link" href="https://tv.seznam.cz/program/3554671" data-reactid="758">Soudkyně Amy VI</a>
+                    <span class="running-show__channel" data-reactid="759"><img class="smart-image running-show__channel-img" alt="ČT 1" title="ČT 1" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15081794/img/90/160x160_aJmk6y.png?fl=res,52,,1" srcset="" data-reactid="760"></span>
+                   </div>
+                   <div class="running-show" data-reactid="761">
+                    <span class="running-show__begin" data-reactid="762"><span class="blind" data-reactid="763">od</span>
+                     <!-- react-text: 764 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 765 -->14:15
+                     <!-- /react-text --></span>
+                    <span class="running-show__progress" data-reactid="766"><span class="running-show__progress-perc" style="width:44%;" data-reactid="767"></span></span>
+                    <span class="running-show__end" data-reactid="768"><span class="blind" data-reactid="769">do</span>
+                     <!-- react-text: 770 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 771 -->14:45
+                     <!-- /react-text --></span>
+                    <a class="running-show__title link" href="https://tv.seznam.cz/program/3554736" data-reactid="772">proStory: V duchu betonu</a>
+                    <span class="running-show__channel" data-reactid="773"><img class="smart-image running-show__channel-img" alt="ČT 2" title="ČT 2" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15081744/img/60/160x160_yrnkfN.png?fl=res,52,,1" srcset="" data-reactid="774"></span>
+                   </div>
+                   <div class="running-show" data-reactid="775">
+                    <span class="running-show__begin" data-reactid="776"><span class="blind" data-reactid="777">od</span>
+                     <!-- react-text: 778 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 779 -->12:00
+                     <!-- /react-text --></span>
+                    <span class="running-show__progress" data-reactid="780"><span class="running-show__progress-perc" style="width:98%;" data-reactid="781"></span></span>
+                    <span class="running-show__end" data-reactid="782"><span class="blind" data-reactid="783">do</span>
+                     <!-- react-text: 784 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 785 -->14:30
+                     <!-- /react-text --></span>
+                    <a class="running-show__title link" href="https://tv.seznam.cz/program/3640603" data-reactid="786">Hokej: Švédsko - Slovensko</a>
+                    <span class="running-show__channel" data-reactid="787"><img class="smart-image running-show__channel-img" alt="ČT Sport" title="ČT Sport" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15081746/img/62/160x160_JtkGuy.png?fl=res,52,,1" srcset="" data-reactid="788"></span>
+                   </div>
+                   <div class="running-show" data-reactid="789">
+                    <span class="running-show__begin" data-reactid="790"><span class="blind" data-reactid="791">od</span>
+                     <!-- react-text: 792 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 793 -->14:00
+                     <!-- /react-text --></span>
+                    <span class="running-show__progress" data-reactid="794"><span class="running-show__progress-perc" style="width:47%;" data-reactid="795"></span></span>
+                    <span class="running-show__end" data-reactid="796"><span class="blind" data-reactid="797">do</span>
+                     <!-- react-text: 798 --> 
+                     <!-- /react-text -->
+                     <!-- react-text: 799 -->15:00
+                     <!-- /react-text --></span>
+                    <a class="running-show__title link" href="https://tv.seznam.cz/program/3560366" data-reactid="800">Odložené případy IV (15)</a>
+                    <span class="running-show__channel" data-reactid="801"><img class="smart-image running-show__channel-img" alt="Nova" title="Nova" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/c_img_F_C/zBtB.png?fl=res,52,,1" srcset="" data-reactid="802"></span>
+                   </div>
+                   <div class="animated-height animated-height--hidden animated-height--hiding-ended" data-reactid="803">
+                    <div class="running-show" data-reactid="804">
+                     <span class="running-show__begin" data-reactid="805"><span class="blind" data-reactid="806">od</span>
+                      <!-- react-text: 807 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 808 -->14:15
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="809"><span class="running-show__progress-perc" style="width:52%;" data-reactid="810"></span></span>
+                     <span class="running-show__end" data-reactid="811"><span class="blind" data-reactid="812">do</span>
+                      <!-- react-text: 813 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 814 -->14:40
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3554562" data-reactid="815">Dva a půl chlapa VII (2)</a>
+                     <span class="running-show__channel" data-reactid="816"><img class="smart-image running-show__channel-img" alt="Nova 2" title="Nova 2" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/c_img_E_B/1X9CP.png?fl=res,52,,1" srcset="" data-reactid="817"></span>
+                    </div>
+                    <div class="running-show" data-reactid="818">
+                     <span class="running-show__begin" data-reactid="819"><span class="blind" data-reactid="820">od</span>
+                      <!-- react-text: 821 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 822 -->13:00
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="823"><span class="running-show__progress-perc" style="width:80%;" data-reactid="824"></span></span>
+                     <span class="running-show__end" data-reactid="825"><span class="blind" data-reactid="826">do</span>
+                      <!-- react-text: 827 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 828 -->14:50
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3554507" data-reactid="829">Šest dní, sedm nocí</a>
+                     <span class="running-show__channel" data-reactid="830"><img class="smart-image running-show__channel-img" alt="Nova CINEMA" title="Nova CINEMA" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/c_img_E_C/K27C.png?fl=res,52,,1" srcset="" data-reactid="831"></span>
+                    </div>
+                    <div class="running-show" data-reactid="832">
+                     <span class="running-show__begin" data-reactid="833"><span class="blind" data-reactid="834">od</span>
+                      <!-- react-text: 835 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 836 -->13:25
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="837"><span class="running-show__progress-perc" style="width:50%;" data-reactid="838"></span></span>
+                     <span class="running-show__end" data-reactid="839"><span class="blind" data-reactid="840">do</span>
+                      <!-- react-text: 841 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 842 -->15:30
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3547602" data-reactid="843">Komisař Rex III (10)</a>
+                     <span class="running-show__channel" data-reactid="844"><img class="smart-image running-show__channel-img" alt="Prima" title="Prima" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15081776/img/33/160x160_VzIzVU.png?fl=res,52,,1" srcset="" data-reactid="845"></span>
+                    </div>
+                    <div class="running-show" data-reactid="846">
+                     <span class="running-show__begin" data-reactid="847"><span class="blind" data-reactid="848">od</span>
+                      <!-- react-text: 849 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 850 -->14:25
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="851"><span class="running-show__progress-perc" style="width:10%;" data-reactid="852"></span></span>
+                     <span class="running-show__end" data-reactid="853"><span class="blind" data-reactid="854">do</span>
+                      <!-- react-text: 855 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 856 -->14:55
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3551863" data-reactid="857">Simpsonovi XI (8)</a>
+                     <span class="running-show__channel" data-reactid="858"><img class="smart-image running-show__channel-img" alt="Prima COOL" title="Prima COOL" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15081739/img/1/160x160_dwjJio.png?fl=res,52,,1" srcset="" data-reactid="859"></span>
+                    </div>
+                    <div class="running-show" data-reactid="860">
+                     <span class="running-show__begin" data-reactid="861"><span class="blind" data-reactid="862">od</span>
+                      <!-- react-text: 863 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 864 -->13:40
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="865"><span class="running-show__progress-perc" style="width:74%;" data-reactid="866"></span></span>
+                     <span class="running-show__end" data-reactid="867"><span class="blind" data-reactid="868">do</span>
+                      <!-- react-text: 869 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 870 -->14:45
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3552699" data-reactid="871">Gordon Ramsay: Famózní kuchyně V (3)</a>
+                     <span class="running-show__channel" data-reactid="872"><img class="smart-image running-show__channel-img" alt="Prima Love" title="Prima Love" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/c_A_C/DZoF.png?fl=res,52,,1" srcset="" data-reactid="873"></span>
+                    </div>
+                    <div class="running-show" data-reactid="874">
+                     <span class="running-show__begin" data-reactid="875"><span class="blind" data-reactid="876">od</span>
+                      <!-- react-text: 877 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 878 -->14:25
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="879"><span class="running-show__progress-perc" style="width:5%;" data-reactid="880"></span></span>
+                     <span class="running-show__end" data-reactid="881"><span class="blind" data-reactid="882">do</span>
+                      <!-- react-text: 883 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 884 -->15:25
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3554125" data-reactid="885">Doktor z hor: Nové příběhy VI (12)</a>
+                     <span class="running-show__channel" data-reactid="886"><img class="smart-image running-show__channel-img" alt="Prima MAX" title="Prima MAX" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15111871/img/31/160x160__h2kdq.png?fl=res,52,,1" srcset="" data-reactid="887"></span>
+                    </div>
+                    <div class="running-show" data-reactid="888">
+                     <span class="running-show__begin" data-reactid="889"><span class="blind" data-reactid="890">od</span>
+                      <!-- react-text: 891 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 892 -->13:20
+                      <!-- /react-text --></span>
+                     <span class="running-show__progress" data-reactid="893"><span class="running-show__progress-perc" style="width:97%;" data-reactid="894"></span></span>
+                     <span class="running-show__end" data-reactid="895"><span class="blind" data-reactid="896">do</span>
+                      <!-- react-text: 897 --> 
+                      <!-- /react-text -->
+                      <!-- react-text: 898 -->14:30
+                      <!-- /react-text --></span>
+                     <a class="running-show__title link" href="https://tv.seznam.cz/program/3554333" data-reactid="899">Ve stopě predátora (1)</a>
+                     <span class="running-show__channel" data-reactid="900"><img class="smart-image running-show__channel-img" alt="Prima ZOOM" title="Prima ZOOM" style="opacity:1;" src="//d27-a.sdn.szn.cz/d_27/d_15081741/img/95/160x160_Cdq1q2.png?fl=res,52,,1" srcset="" data-reactid="901"></span>
+                    </div>
+                   </div>
+                   <div class="running__more" data-reactid="902">
+                    <div class="expander expander--line-top" data-reactid="903">
+                     <button class="expander__button" type="button" data-fallback="true" data-reactid="904"><span class="expander__line" data-reactid="905"><span class="expander__line-part expander__line-part--left" data-reactid="906"><span class="expander__line-part-in" data-reactid="907"></span></span><span class="expander__line-part expander__line-part--right" data-reactid="908"><span class="expander__line-part-in" data-reactid="909"></span></span><span class="expander__line-icon iconfont-down-bold" data-reactid="910"></span></span><span class="expander__button-in" data-reactid="911">Zobrazit všechny vaše stanice</span></button>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="gadget-container animated-height" data-reactid="912">
+              <div class="draggable-target dragging-enabled" data-draggable-target="true" data-draggable-target-id="165040" data-reactid="913">
+               <div class="gadget gadget--zbozi" data-dot="gadgetVanoceZbozi" data-reactid="914">
+                <div class="gadget__header" data-reactid="915">
+                 <div data-draggable-handler="true" class="draggable-handler" data-reactid="916">
+                  <h2 class="gadget__title gadget__title--w-icon" data-reactid="917"><span class="gadget__favicon-wrap" data-reactid="918"><img class="smart-image gadget__favicon" alt="" style="opacity:1;" src="//d32-a.sdn.szn.cz/d_32/c_img_G_I/dDdBni2.png" srcset="" data-reactid="919"></span><span class="gadget__title-text" data-reactid="920"><a class="link link--gadget-title" href="https://www.zbozi.cz/" data-reactid="921">Zboží</a></span></h2>
+                  <div class="gadget__controls" data-dnd-handler-ignore="true" data-reactid="922">
+                   <button class="gadget__control gadget__control--sett" type="button" title="Upravte si boxík" data-fallback="true" data-reactid="923"><span class="blind" data-reactid="924">
+                     <!-- react-text: 925 -->Nastavit boxík 
+                     <!-- /react-text -->
+                     <!-- react-text: 926 -->Zboží
+                     <!-- /react-text --></span><span class="gadget__control-icon iconfont-down-bold" aria-hidden="true" data-reactid="927"></span></button>
+                  </div>
+                 </div>
+                </div>
+                <!-- react-empty: 928 -->
+                <div class="gadget__content" data-reactid="929">
+                 <ul class="product-list" data-reactid="930">
+                  <li class="product-list__item" data-reactid="931"><span class="product" data-reactid="932"><span class="product__image-wrap1" data-reactid="933"><span class="product__image-wrap2" data-reactid="934"><a class="product__image-wrap3" href="https://www.zbozi.cz/vyrobek/lego-star-wars-75102-poeova-stihacka-x-wing/#utm_source=seznam.cz&amp;utm_medium=hp-box" aria-hidden="true" tabindex="-1" data-reactid="935"><img class="smart-image product__image" alt="LEGO Star Wars" style="opacity:1;" src="https://d25-a.sdn.szn.cz/d_25/d_15102216/img/10/999x728_XXncSH.jpg?w=100&amp;h=84&amp;m=rp&amp;zbz-stamp=1494937501" srcset="" data-reactid="936"></a></span></span><span class="product__text-box" data-reactid="937"><a class="product__title link" href="https://www.zbozi.cz/vyrobek/lego-star-wars-75102-poeova-stihacka-x-wing/#utm_source=seznam.cz&amp;utm_medium=hp-box" data-reactid="938">LEGO Star Wars</a><span class="product__price" data-reactid="939">Cena od 1 937 Kč</span></span></span></li>
+                  <li class="product-list__item" data-reactid="940"><span class="product" data-reactid="941"><span class="product__image-wrap1" data-reactid="942"><span class="product__image-wrap2" data-reactid="943"><a class="product__image-wrap3" href="https://www.zbozi.cz/vyrobek/scheppach-air-force/#utm_source=seznam.cz&amp;utm_medium=hp-box" aria-hidden="true" tabindex="-1" data-reactid="944"><img class="smart-image product__image" alt="Bezolejový kompresor Scheppach AIR FORCE" style="opacity:1;" src="https://d25-a.sdn.szn.cz/d_25/c_img_H_a/k7vBb23.jpeg?w=100&amp;h=84&amp;m=rp&amp;zbz-stamp=1494937501" srcset="" data-reactid="945"></a></span></span><span class="product__text-box" data-reactid="946"><a class="product__title link" href="https://www.zbozi.cz/vyrobek/scheppach-air-force/#utm_source=seznam.cz&amp;utm_medium=hp-box" data-reactid="947">Bezolejový kompresor Scheppach AIR FORCE</a><span class="product__price" data-reactid="948">Cena od 1 563 Kč</span></span></span></li>
+                  <li class="product-list__item" data-reactid="949"><span class="product" data-reactid="950"><span class="product__image-wrap1" data-reactid="951"><span class="product__image-wrap2" data-reactid="952"><a class="product__image-wrap3" href="https://www.zbozi.cz/vyrobek/samsung-galaxy-s8-g950f/#utm_source=seznam.cz&amp;utm_medium=hp-box" aria-hidden="true" tabindex="-1" data-reactid="953"><img class="smart-image product__image" alt="Samsung Galaxy S8 nejlevněji" style="opacity:1;" src="https://d25-a.sdn.szn.cz/d_25/c_img_H_Bo/Gxe1u.jpeg?w=100&amp;h=84&amp;m=rp&amp;zbz-stamp=1494937501" srcset="" data-reactid="954"></a></span></span><span class="product__text-box" data-reactid="955"><a class="product__title link" href="https://www.zbozi.cz/vyrobek/samsung-galaxy-s8-g950f/#utm_source=seznam.cz&amp;utm_medium=hp-box" data-reactid="956">Samsung Galaxy S8 nejlevněji</a><span class="product__price" data-reactid="957">Cena od 18 990 Kč</span></span></span></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ad-button-sticky-repeater" data-reactid="958">
+              <div class="ad-button-sticky-repeater__layout-measurement" data-reactid="959">
+               <div class="ad-button-sticky-container" data-reactid="960"></div>
+              </div>
+              <div class="ad-button-sticky-repeater__content" data-reactid="961"></div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="gadget-layout__css-spy" data-reactid="962"></div>
+         </div>
+        </div>
+        <div data-dot="ad-bottom" class="ad-bottom ad-content" data-reactid="963"></div>
+        <div class="hp-footer content-underlay content-underlay--main content-underlay--main-bottom" data-reactid="964">
+         <ul class="bottom-nav" data-dot="bottom-links" data-reactid="965">
+          <li class="bottom-nav__item" data-reactid="966"><a class="link" href="#vas-nazor" title="Budeme rádi, když nám napíšete, jak se vám líbí" data-dot="feedback" data-fallback="true" data-reactid="967"><span class="bottom-nav__item-icon iconfont-feedback" aria-hidden="true" data-reactid="968"></span><span class="bottom-nav__item-title" data-reactid="969">Co říkáte na Seznam.cz?</span></a></li>
+          <li class="bottom-nav__item" data-reactid="970"><a class="link" href="#nastaveni" title="Nastavení boxíků a vzhledu" data-dot="settings" data-fallback="true" data-reactid="971"><span class="bottom-nav__item-icon iconfont-settings" aria-hidden="true" data-reactid="972"></span><span class="bottom-nav__item-title" data-reactid="973">Nastavení</span></a></li>
+          <li class="bottom-nav__item" data-reactid="974"><a class="link" href="#nastavit-jako-domovskou-stranku" title="Jak na to, abyste byli na Seznamu doma" data-dot="set-as-homepage" data-fallback="true" data-reactid="975"><span class="bottom-nav__item-icon iconfont-homepage" aria-hidden="true" data-reactid="976"></span><span class="bottom-nav__item-title" data-reactid="977">Nastavit Seznam jako domovskou stránku</span></a></li>
+          <li class="bottom-nav__item" data-reactid="978"><a class="link" href="/prohlizec#utm_source=seznam_hp&amp;utm_medium=paticka&amp;utm_campaign=szn_aplikace" title="Svižný a bezpečný prohlížeč od Seznamu" data-dot="sbrowser" data-reactid="979"><span class="bottom-nav__item-icon iconfont-download" aria-hidden="true" data-reactid="980"></span><span class="bottom-nav__item-title" data-reactid="981">Prohlížeč Seznam.cz</span></a></li>
+          <li class="bottom-nav__item" data-reactid="982"><a class="link" href="/mobilni-aplikace" title="Aplikace Mapy.cz, Seznam.cz, Email.cz a další zdarma ke stažení" data-dot="apps" data-reactid="983"><span class="bottom-nav__item-icon iconfont-apps" aria-hidden="true" data-reactid="984"></span><span class="bottom-nav__item-title" data-reactid="985">Mobilní aplikace</span></a></li>
+          <li class="bottom-nav__item" data-reactid="986"><a class="link" href="/nejctenejsi-clanky" title="To nejčtenější z Novinky.cz, Super.cz, Sport.cz a Proženy.cz" data-dot="top-articles" data-reactid="987"><span class="bottom-nav__item-icon iconfont-top-articles" aria-hidden="true" data-reactid="988"></span><span class="bottom-nav__item-title" data-reactid="989">Nejčtenější články</span></a></li>
+          <li class="bottom-nav__item" data-reactid="990"><a class="link" href="/vychytavky" title="Vychytávky, které nově umíme" data-dot="vychytavky" data-reactid="991"><span class="bottom-nav__item-icon iconfont-tweaks" aria-hidden="true" data-reactid="992"></span><span class="bottom-nav__item-title" data-reactid="993">Vychytávky</span></a></li>
+         </ul>
+         <div class="hp-shared-footer" data-reactid="994">
+          <footer class="footer" data-dot="foot" data-reactid="995">
+           <ul class="footer__links" data-reactid="996">
+            <li class="footer__link-item" data-reactid="997"><a class="link" href="https://onas.seznam.cz/" data-reactid="998">O Seznamu</a></li>
+            <li class="footer__link-item" data-reactid="999"><a class="link" href="https://kariera.seznam.cz/" data-reactid="1000">Kariéra</a></li>
+            <li class="footer__link-item" data-reactid="1001"><a class="link" href="https://vyvojari.seznam.cz/" data-reactid="1002">Vývojáři</a></li>
+            <li class="footer__link-item" data-reactid="1003"><a class="link" href="http://investujeme.seznam.cz/" data-reactid="1004">Investujeme</a></li>
+            <li class="footer__link-item" data-reactid="1005"><a class="link" href="http://reklama.seznam.cz/" data-reactid="1006">Reklama</a></li>
+            <li class="footer__link-item" data-reactid="1007"><a class="link" href="https://napoveda.seznam.cz/cz/seznam/vse-o-hlavni-strance/" data-reactid="1008">Nápověda</a></li>
+            <li class="footer__link-item" data-reactid="1009"><a class="link" href="https://onas.seznam.cz/cz/smluvni-podminky.html" data-reactid="1010">Smluvní podmínky</a></li>
+           </ul>
+           <p class="footer__copyright" data-reactid="1011">
+            <!-- react-text: 1012 -->Copyright © 1996–
+            <!-- /react-text -->
+            <!-- react-text: 1013 -->2017
+            <!-- /react-text -->
+            <!-- react-text: 1014 -->, Seznam.cz, a.s.
+            <!-- /react-text --></p>
+          </footer>
+         </div>
+         <a href="#www-seznam-cz" class="blind" data-reactid="1015">nahoru</a>
+         <a href="mailto:andulka@semnicneposilejte.cz" class="blind" data-reactid="1016">andulka@semnicneposilejte.cz</a>
+        </div>
+        <div data-adblock-meter="true" class="ad-content" id="ad-block-meter-1494937728260" style="position:absolute;top:-9999px;width:1px;height:1px;" data-reactid="1017"></div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div data-popover="true" data-reactid="1018"></div>
+    <div data-suggest-wrapper="true" data-reactid="1019"></div>
+    <div data-modal="true" data-reactid="1020"></div>
+    <div class="announcement" data-announcements="true" data-reactid="1021"></div>
+    <div class="ui__global-loading-overlay" data-reactid="1022">
+     <span class="ui__global-loader" data-reactid="1023"></span>
+    </div>
+    <a name="stop" tabindex="0" data-reactid="1024"></a>
+   </div>
+  </div> 
+  <script type="text/javascript">
+                            (function(win) {
+                                var markedAsObsoleteBrowser = win.HP.checkAndMarkAsObsoleteBrowser("sznObsoleteBrowserForHP");
+                                if (markedAsObsoleteBrowser) {
+                                    win.location.reload();
+                                    return;
+                                }
+
+                                var start = function() {
+                                    win.HP.process.env = {"NODE_ENV":"production","SZN_APP_VERSION":"1.26.33","SZN_TLD":"cz","SZN_SERVER_ENVIRONMENT":""};
+                                    win.HP.init.start({
+                                        section: "hp",
+                                        username: "",
+                                        abtestName: "",
+                                        abtestVariation: "",
+                                        userSettings: {"skinCssId":"default","columnCount":2,"formation":[[163425,26,1051,181,194,71510],[184,183,94888,182,185,180,165040]]},
+                                        runFunc: function() {
+                                            new win.HP.Client(
+                                                {"homepageData":{"_embedded":{"column":[{"_embedded":{"feed":[{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/163425/item/0"}},"description":"Vládní krize pokračuje čtrnáctým dnem. Dění sledujeme v online reportáži.","itemId":"31497","link":"https://www.seznam.cz/zpravy/clanek/online-babis-rika-ze-ma-noveho-ministra-financi-vybira-ze-tri-jmen-31497?dop-ab-variant=&seq-no=1&source=hp","live":true,"seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/bcNBrG7.jpeg?fl=res,450,253,3","title":"Online: Babiš říká, že má nového ministra financí. Vybírá ze tří jmen"},{"_links":{"self":{"href":"/user/feed/163425/item/1"}},"description":"Premiér Sobotka: Musíme si říct, kdy začneme platit eurem. Přichází totiž éra dvourychlostní Evropy.","itemId":"31489","link":"https://www.seznam.cz/zpravy/clanek/z-francie-a-z-nemecka-prichazi-varovani-v-cesko-ozivaji-uvahy-o-zavedeni-eura-31489?dop-ab-variant=&seq-no=2&source=hp","live":false,"seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/ypiBwVi.jpeg?fl=res,450,253,3","title":"Z Francie a Německa přichází varování. V Česku ožívají úvahy o zavedení eura"},{"_links":{"self":{"href":"/user/feed/163425/item/2"}},"description":"Ředitel studia Disney Bob Iger v pondělí informoval o tom, že hackeři ukradli nejnovější Piráty z Karibiku a chtějí výkupné. Případ vyšetřuje FBI.","itemId":"31495","link":"https://www.seznam.cz/zpravy/clanek/hackeri-ukradli-nove-piraty-z-karibiku-31495?dop-ab-variant=&seq-no=3&source=hp","live":false,"seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/SeTBwVb.jpeg?fl=res,450,253,3","title":"Hackeři ukradli nové Piráty z Karibiku"}],"settings":{"_links":{"self":{"href":"/user/feed/163425/settings"}},"column":0,"item_count":3,"row":0,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/163425/item/0"},{"href":"/user/feed/163425/item/1"},{"href":"/user/feed/163425/item/2"}],"self":{"href":"/user/feed/163425"},"settings":{"href":"/user/feed/163425/settings"}},"allowHtml":false,"allowImage":false,"column":0,"faviconRtUrl":"","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/DDuBe7H.png","feedId":163425,"groupId":"seznam","isOutage":false,"item_count":3,"lastUpdate":1494937638,"promo":"","row":0,"serverUrl":"https://www.seznam.cz/zpravy","show_preview":0,"title":"Seznam Zprávy – přehled zpráv","titleLong":"Seznam Zprávy","typeId":"zpravy","url":"https://apiclanky.seznam.cz/v1/documenttimelines/57f255b6831b7d12b73615af?rss=1"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/26/item/0"}},"description":"Vedení hnutí ANO by podle svých poslanců mělo trvat na tom, aby Andreje Babiše v křesle ministra financí vystřídala jeho náměstkyně pro daně Alena Schillerová. Babiš to minulý týden navrhl premiérovi Bohuslavu Sobotkovi (ČSSD), ten však v pondělí Schillerovou odmítl a požádal ANO, ať navrhne jiného kandidáta.","itemId":"437947","link":"https://www.novinky.cz/domaci/437947-poslanci-ano-radi-babisovi-aby-sel-do-primeho-stretu-s-cssd.html?sznhp=rss","live":false,"pubDate":"1494927962","seznam_extraordinaryNews":"disabled","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/iP2BwWv.jpeg?fl=res,450,253,3","seznam_upDate":"1494928802","title":"Poslanci ANO radí Babišovi, aby šel do přímého střetu s ČSSD","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/iP2BwWv.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/26/item/1"}},"itemId":"437950","link":"https://www.novinky.cz/zahranicni/amerika/437950-mam-pravo-delit-se-o-informace-odrazi-trump-narceni-z-vyzrazeni-tajemstvi.html?sznhp=rss","live":false,"pubDate":"1494928682","seznam_extraordinaryNews":"disabled","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/MiiBwYF.jpeg?fl=res,450,253,3","seznam_upDate":"1494929041","title":"Mám právo dělit se o informace, odráží Trump nařčení z vyzrazení tajemství","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/MiiBwYF.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/26/item/2"}},"itemId":"437935","link":"https://www.novinky.cz/zahranicni/amerika/437935-teenager-vypil-moc-rychle-tri-napoje-s-kofeinem-a-zemrel.html?sznhp=rss","live":false,"pubDate":"1494925681","seznam_extraordinaryNews":"disabled","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/2ayBwRP.jpeg?fl=res,450,253,3","seznam_upDate":"1494927362","title":"Teenager vypil moc rychle tři nápoje s kofeinem a zemřel","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/2ayBwRP.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/26/item/3"}},"itemId":"437916","link":"https://www.novinky.cz/krimi/437916-barbora-skrlova-zije-v-utajeni-pod-dohledem-psychiatru.html?sznhp=rss","live":false,"pubDate":"1494923161","seznam_extraordinaryNews":"disabled","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/eAVBwLe.jpeg?fl=res,450,253,3","seznam_upDate":"1494928021","title":"Barbora Škrlová žije v utajení pod dohledem psychiatrů","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/eAVBwLe.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/26/item/4"}},"itemId":"437278","link":"https://www.novinky.cz/zena/styl/437278-jak-zvladnout-tridni-sraz-i-po-letech-s-gracii.html?sznhp=rss","live":false,"pubDate":"1494909902","seznam_extraordinaryNews":"disabled","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/EvyBqbR.jpeg?fl=res,450,253,3","seznam_upDate":"1494920102","title":"Jak zvládnout třídní sraz i po letech s grácií","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/EvyBqbR.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/26/item/5"}},"itemId":"437944","link":"https://www.novinky.cz/koktejl/437944-valecny-veteran-skocil-ve-101-letech-s-padakem-prekonal-svetovy-rekord.html?sznhp=rss","live":false,"pubDate":"1494928741","seznam_extraordinaryNews":"disabled","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/1C9BrDZ.jpeg?fl=res,450,253,3","seznam_upDate":"1494928741","title":"Válečný veterán skočil ve 101 letech s padákem, překonal světový rekord","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/1C9BrDZ.jpeg?fl=res,450,253,3"}],"settings":{"_links":{"self":{"href":"/user/feed/26/settings"}},"column":0,"item_count":6,"row":1,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/26/item/0"},{"href":"/user/feed/26/item/1"},{"href":"/user/feed/26/item/2"},{"href":"/user/feed/26/item/3"},{"href":"/user/feed/26/item/4"},{"href":"/user/feed/26/item/5"}],"self":{"href":"/user/feed/26"},"settings":{"href":"/user/feed/26/settings"}},"allowHtml":false,"allowImage":false,"column":0,"faviconRtUrl":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/bBWBR9T.png","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/1A9BR9S.png","feedId":26,"groupId":"seznam","isOutage":false,"item_count":6,"lastUpdate":1494936316,"promo":"","row":1,"serverUrl":"https://www.novinky.cz/","show_preview":0,"title":"Novinky.cz – přehled zpráv","titleLong":"Novinky","typeId":"novinky","url":"https://www.novinky.cz/rss/seznam-hp"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/1051/item/0"}},"description":"Rozpad vztahu s Janem Onderem a následné provalení poměru s Emanuelem Ridim zamávaly s reputací Lucie Hunčárové v prostředí profesionálních tanečníků. Hvězda televizní soutěže StarDance si nemůže najít tanečního partnera a zavadit o práci.","itemId":"502762","link":"https://www.super.cz/502762-za-lasku-s-bohemskym-kucharem-plati-velkou-dan-hvezda-stardance-nemuze-zavadit-o-praci.html","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/Kr4Bv5T.jpeg?fl=res,450,253,3","title":"Za lásku s bohémským kuchařem platí velkou daň: Hvězda StarDance nemůže zavadit o práci","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/Kr4Bv5T.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/1051/item/1"}},"itemId":"502875","link":"https://www.super.cz/502875-hvezda-velmi-krehkych-vztahu-po-letech-takhle-ted-vypada-muz-ktery-ma-dite-s-plankovou-a-pred-lety-holdoval-alkoholu.html","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/UMVBwTH.jpeg?fl=res,450,253,3","title":"Hvězda Velmi křehkých vztahů po letech: Takhle teď vypadá muž, který má dítě s Plánkovou a před lety holdoval alkoholu","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/UMVBwTH.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/1051/item/2"}},"itemId":"502759","link":"https://www.super.cz/502759-noid-je-na-dne-jeho-dcera-terezka-ma-zranenou-nohu-a-manzelka-gabina-rozjela-tvrdy-boj.html","seznam_forceShow":"0","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/0icBwWS.jpeg?fl=res,450,253,3","title":"Noid je na dně: Jeho dcera Terezka má zraněnou nohu a manželka Gábina rozjela tvrdý boj!","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/0icBwWS.jpeg?fl=res,450,253,3"}],"settings":{"_links":{"self":{"href":"/user/feed/1051/settings"}},"column":0,"item_count":3,"row":2,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/1051/item/0"},{"href":"/user/feed/1051/item/1"},{"href":"/user/feed/1051/item/2"}],"self":{"href":"/user/feed/1051"},"settings":{"href":"/user/feed/1051/settings"}},"allowHtml":true,"allowImage":true,"column":0,"faviconRtUrl":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/b74BZUt.png","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/FgiBZhj.png","feedId":1051,"groupId":"seznam","isOutage":false,"item_count":3,"lastUpdate":1494937444,"promo":"","row":2,"serverUrl":"https://www.super.cz","show_preview":0,"title":"Super.cz - výběr článků","titleLong":"Super","typeId":"super","url":"https://www.super.cz/rss/seznam-hp"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/181/item/0"}},"description":"Závěrečný hrací den základních skupin na hokejovém mistrovství světa nadešel. Posledních šest úterních zápasů urči definitivní pořadí. Jako první přichází na řadu Švédsko se Slovenskem (stav 4:2). Tým ze severu Evropy bojuje o umístění v první čtveřici skupiny A a je možným soupeřem českých hráčů pro play off.ČT Sport vysílá od 12 hodin utkání Slováků se Švédy.","link":"https://www.sport.cz/hokej/ms2017/clanek/884469-hokej-on-line-drama-se-nekona-slovaci-inkasovali-do-prazdne-brany.html#hp-sez","pubDate":"1494921979","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/EeNBwWG.jpeg?fl=res,450,253,3","seznam_label":"Hokej","seznam_section_name":"MS 2017","seznam_section_parent_name":"Hokej","seznam_upDate":"1494930204","title":"HOKEJ ON-LINE: Drama se nekoná. Slováci inkasovali do prázdné brány","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/EeNBwWG.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/181/item/1"}},"link":"https://www.sport.cz/hokej/ms2017/clanek/884293-plekanec-zatim-v-produktivite-mlci-gol-by-uvolnil-tihu-zatim-ale-pomaham-jinak-rika.html#hp-sez","pubDate":"1494915599","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/mShBrBE.jpeg?fl=res,450,253,3","seznam_label":"Hokej","seznam_section_name":"MS 2017","seznam_section_parent_name":"Hokej","seznam_upDate":"1494915599","title":"Plekanec zatím v produktivitě mlčí: Gól by uvolnil tíhu, zatím ale pomáhám jinak, říká","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/mShBrBE.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/181/item/2"}},"link":"https://www.sport.cz/ostatni/tenis/clanek/884473-slavne-koloseum-privitalo-tenisove-hvezdy-ty-si-zde-i-zapinkaly.html#hp-sez","pubDate":"1494916376","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/AnqBrkS.jpeg?fl=res,450,253,3","seznam_label":"Tenis","seznam_section_name":"Tenis","seznam_section_parent_name":"Ostatní sporty","seznam_upDate":"1494916376","title":"Šarapovová a Berdych se ukázali v netradičních kulisách. Ruska tančila, došlo i na pinkání","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/AnqBrkS.jpeg?fl=res,450,253,3"}],"settings":{"_links":{"self":{"href":"/user/feed/181/settings"}},"column":0,"item_count":3,"row":3,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/181/item/0"},{"href":"/user/feed/181/item/1"},{"href":"/user/feed/181/item/2"}],"self":{"href":"/user/feed/181"},"settings":{"href":"/user/feed/181/settings"}},"allowHtml":false,"allowImage":false,"column":0,"faviconRtUrl":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/XrkBUsA.png","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/qK6BU1L.png","feedId":181,"groupId":"seznam","isOutage":false,"item_count":3,"lastUpdate":1494937442,"promo":"Nepropásněte už ani jeden gól z MS v hokeji 2017 s <a href='https://aplikace.seznam.cz/sport.html'>aplikací Sport.cz</a>","row":3,"serverUrl":"https://www.sport.cz/","show_preview":0,"title":"Sport.cz – přehled zpráv","titleLong":"Sport","typeId":"sport","url":"https://www.sport.cz/rss/seznam-hp"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/194/item/0"}},"itemId":"10017413","length":"3:54","link":"https://www.stream.cz/darwinovy-ceny/10017413-herecka-z-filmu-pro-dospele-natacela-propagacni-video-pod-vodou-zraloci-si-smlsli?rss&dop-ab-variant=&seq-no=1","seznam_streamEpisodeCount":"212","seznam_streamEpisodeName":"Herečka z filmů pro dospělé natáčela propagační video pod vodou. Žraloci si smlsli","seznam_streamShow":"Darwinovy ceny","title":"Pornoherečka natáčela video pod vodou. Žraloci si smlsli","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/5yzBrv6.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/1"}},"itemId":"10017517","length":"4:06","link":"https://www.stream.cz/hleda-se-leadr/10017517-tahle-slecna-vyhrala-soutez-hleda-se-leadr-volili-byste-ji-i-ve-volbach?rss&dop-ab-variant=&seq-no=2","seznam_streamEpisodeCount":"14","seznam_streamEpisodeName":"Tahle slečna vyhrála soutěž Hledá se LEADr.! Volili byste ji i ve volbách?","seznam_streamShow":"HLEDÁ SE LEADr.","title":"Tahle slečna vyhrála soutěž Hledá se LEADr.! Volili byste ji i ve volbách?","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/7AvBwBK.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/2"}},"itemId":"10017296","length":"15:29","link":"https://www.stream.cz/fizlarna/10017296-operace-6?rss&dop-ab-variant=&seq-no=3","seznam_streamEpisodeCount":"9","seznam_streamEpisodeName":"Operace (6)","seznam_streamShow":"Fízlárna","title":"Čeho je schopná žárlivá žena? Tady jde o víc. Doslova o krk","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/2XMBrbW.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/3"}},"itemId":"10016261","length":"3:49","link":"https://www.stream.cz/nezapomenutelni/10016261-jsou-slecny-spise-dominantni-nebo-submisivni?rss&dop-ab-variant=&seq-no=4","seznam_streamEpisodeCount":"153","seznam_streamEpisodeName":"Jsou slečny spíše dominantní, nebo submisivní?","seznam_streamShow":"Nezapomenutelní","title":"Otevřenou zpovědí nepřekvapí jen slečny, ale i jejich matky!","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/xvnBrbX.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/4"}},"itemId":"10017513","length":"5:44","link":"https://www.stream.cz/babisovy-dobroty/10017513-andrej-radil-na-demonstraci-s-koblihovou-munici?rss&dop-ab-variant=&seq-no=5","seznam_streamEpisodeCount":"2","seznam_streamEpisodeName":"Andrej řádil na demonstraci s koblihovou municí","seznam_streamShow":"Babišovy dobroty","title":"Andrej zase řádil. Teď už se asi zbláznil úplně...","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/53ABrbY.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/5"}},"itemId":"10017431","length":"15:05","link":"https://www.stream.cz/slavni-neznami/10017431-katerina-falk-svetova-autorita-pres-fyziku-plazmatu?rss&dop-ab-variant=&seq-no=6","seznam_streamEpisodeCount":"86","seznam_streamEpisodeName":"Kateřina Falk – Světová autorita přes fyziku plazmatu","seznam_streamShow":"Slavní neznámí","title":"Svět uznává mladou českou vědkyni.Dostala vynikající nabídku","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/OeBBqqj.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/6"}},"itemId":"10017347","length":"5:50","link":"https://www.stream.cz/adost/10017347-pet-lahve-proc-se-jich-mame-bat?rss&dop-ab-variant=&seq-no=7","seznam_streamEpisodeCount":"332","seznam_streamEpisodeName":"PET láhve. Proč se jich máme bát","seznam_streamShow":"A DOST!","title":"PET láhve. Netušili jste, v čem jsou opravdu nebezpečné","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/TxzBqqk.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/7"}},"itemId":"10017504","length":"4:55","link":"https://www.stream.cz/dobyvanivesmiru/10017504-zkraceny-vystup-do-volneho-prostoru?rss&dop-ab-variant=&seq-no=8","seznam_streamEpisodeCount":"723","seznam_streamEpisodeName":"Zkrácený výstup do volného prostoru","seznam_streamShow":"Dobývání vesmíru","title":"Výstup do prostoru: Astronauti měli problém hned na začátku","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/FR8BrbZ.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/8"}},"itemId":"10017480","length":"1:19","link":"https://www.stream.cz/homemade/10017480-jak-si-vyrobit-sumak-do-wc-ktery-zatoci-s-vodnim-kamenem?rss&dop-ab-variant=&seq-no=9","seznam_streamEpisodeCount":"23","seznam_streamEpisodeName":"Jak si vyrobit šumák do WC, který zatočí s vodním kamenem","seznam_streamShow":"Homemade","title":"Jak si vyrobit šumák do WC, který zatočí s vodním kamenem","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/JxTBqql.jpeg?fl=res,400,225,3"},{"_links":{"self":{"href":"/user/feed/194/item/9"}},"itemId":"10017471","length":"10:20","link":"https://www.stream.cz/novy-zivot-diky-plastice/10017471-johana-zvetseni-prsou-augmentace?rss&dop-ab-variant=&seq-no=10","seznam_streamEpisodeCount":"61","seznam_streamEpisodeName":"Johana – Zvětšení prsou (Augmentace)","seznam_streamShow":"Nový život díky plastice","title":"Tomu říkáš prsa?! Operace pro Johanu znamenala úžasnou změnu","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/akvBqqm.jpeg?fl=res,400,225,3"}],"settings":{"_links":{"self":{"href":"/user/feed/194/settings"}},"column":0,"item_count":3,"row":4,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/194/item/0"},{"href":"/user/feed/194/item/1"},{"href":"/user/feed/194/item/2"},{"href":"/user/feed/194/item/3"},{"href":"/user/feed/194/item/4"},{"href":"/user/feed/194/item/5"},{"href":"/user/feed/194/item/6"},{"href":"/user/feed/194/item/7"},{"href":"/user/feed/194/item/8"},{"href":"/user/feed/194/item/9"}],"self":{"href":"/user/feed/194"},"settings":{"href":"/user/feed/194/settings"}},"allowHtml":false,"allowImage":true,"column":0,"faviconRtUrl":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/fUxBQD2.png","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/2VoBQD1.png","feedId":194,"groupId":"seznam","isOutage":false,"item_count":3,"lastUpdate":1494935410,"promo":"","row":4,"serverUrl":"https://www.stream.cz/","show_preview":0,"title":"Stream.cz – zábavná videa","titleLong":"Stream","typeId":"videostream","url":"http://stream-api:8088/rss"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/71510/item/0"}},"description":"Možná se vám zdá, že v trochu pokročilejším věku trpí vysokým krevním tlakem každý druhý. Řeší ho vaše maminka, babička a většina jejich známých. Bohužel nejste daleko od pravdy. O to hůř, že hypertenze je poměrně vážná diagnóza.","itemId":"31325","link":"https://www.prozeny.cz/clanek/nebezpecny-vysoky-tlak-zname-pet-zpusobu-jak-ho-snizit-bez-leku-31325","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/sMZBvMY.jpeg?fl=res,450,253,3","title":"Nebezpečný vysoký tlak. Známe pět způsobů, jak ho snížit bez léků","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/sMZBvMY.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/71510/item/1"}},"itemId":"31293","link":"https://www.prozeny.cz/clanek/rychle-a-levne-pecene-kure-na-zelenine-si-zamilujete-31293","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/x9jBwZN.jpeg?fl=res,450,253,3","title":"Rychle a levně: Pečené kuře na zelenině si zamilujete","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/x9jBwZN.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/71510/item/2"}},"itemId":"31254","link":"https://www.prozeny.cz/clanek/muzi-versus-zeny-proc-delame-stejne-veci-uplne-jinak-31254","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/lSsBvMd.jpeg?fl=res,450,253,3","title":"Muži versus ženy: Proč děláme stejné věci úplně jinak","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/lSsBvMd.jpeg?fl=res,450,253,3"},{"_links":{"self":{"href":"/user/feed/71510/item/3"}},"itemId":"31402","link":"https://www.prozeny.cz/clanek/magie-uzlu-naucte-se-jak-si-privolat-lasku-31402","seznam_image":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/oRGBvfj.jpeg?fl=res,450,253,3","title":"Magie uzlů: Naučte se, jak si přivolat lásku","top_photo":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/oRGBvfj.jpeg?fl=res,450,253,3"}],"settings":{"_links":{"self":{"href":"/user/feed/71510/settings"}},"column":0,"item_count":4,"row":5,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/71510/item/0"},{"href":"/user/feed/71510/item/1"},{"href":"/user/feed/71510/item/2"},{"href":"/user/feed/71510/item/3"}],"self":{"href":"/user/feed/71510"},"settings":{"href":"/user/feed/71510/settings"}},"allowHtml":false,"allowImage":false,"column":0,"faviconRtUrl":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/HM9BOlq.png","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/pYuBN8S.png","feedId":71510,"groupId":"seznam","isOutage":false,"item_count":4,"lastUpdate":1494936318,"promo":"","row":5,"serverUrl":"https://www.prozeny.cz/","show_preview":0,"title":"Proženy.cz – výběr článků","titleLong":"Proženy","typeId":"prozeny","url":"https://apiclanky.seznam.cz/v1/documenttimelines/58fdd6b461bf339ead884134?rss=1"}]},"_links":{"feed":[{"href":"/user/feed/163425"},{"href":"/user/feed/26"},{"href":"/user/feed/1051"},{"href":"/user/feed/181"},{"href":"/user/feed/194"},{"href":"/user/feed/71510"}],"self":{"href":"/user/column/0"}}},{"_embedded":{"feed":[{"_embedded":{"settings":{"_links":{"self":{"href":"/user/feed/184/settings"}},"column":1,"item_count":4,"row":0,"show_preview":0}},"_links":{"self":{"href":"/user/feed/184"},"settings":{"href":"/user/feed/184/settings"}},"allowHtml":false,"allowImage":false,"faviconRtUrl":"","faviconUrl":"","feedId":184,"groupId":"seznam","isOutage":false,"lastUpdate":0,"login_domains":["seznam.cz","email.cz","post.cz","spoluzaci.cz","stream.cz","firmy.cz"],"promo":"","serverUrl":"","title":"Email.cz – přehled e-mailů","titleLong":"Email","typeId":"email","url":"http://www.email.cz/"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/183/item/0"}},"seznam_maxTemperature":"18","seznam_minTemperature":"8","seznam_temperature":"18","seznam_weatherIsNight":"0","seznam_weatherItemType":"afternoon","seznam_weatherTypeId":"13","seznam_weatherTypeIdDesc":"Oblačno"},{"_links":{"self":{"href":"/user/feed/183/item/1"}},"seznam_maxTemperature":"14","seznam_minTemperature":"8","seznam_temperature":"14","seznam_weatherIsNight":"0","seznam_weatherItemType":"evening","seznam_weatherTypeId":"13","seznam_weatherTypeIdDesc":"Oblačno"},{"_links":{"self":{"href":"/user/feed/183/item/2"}},"seznam_maxTemperature":"8","seznam_minTemperature":"8","seznam_temperature":"8","seznam_weatherIsNight":"1","seznam_weatherItemType":"night","seznam_weatherTypeId":"2","seznam_weatherTypeIdDesc":"Polojasno"}],"settings":{"_links":{"self":{"href":"/user/feed/183/settings"}},"column":1,"item_count":5,"row":1,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/183/item/0"},{"href":"/user/feed/183/item/1"},{"href":"/user/feed/183/item/2"}],"self":{"href":"/user/feed/183"},"settings":{"href":"/user/feed/183/settings"}},"allowHtml":false,"allowImage":false,"counties":[{"districts":[{"district":"CESKA_REPUBLIKA","id":99,"name":"Česká republika"}],"id":1,"name":"Česká republika"},{"districts":[{"district":"PRAHA","id":100,"name":"Praha"}],"id":2,"name":"Praha"},{"districts":[{"district":"CESKE_BUDEJOVICE","id":113,"name":"České Budějovice"},{"district":"CESKY_KRUMLOV","id":114,"name":"Český Krumlov"},{"district":"JINDRICHUV_HRADEC","id":115,"name":"Jindřichův Hradec"},{"district":"PISEK","id":117,"name":"Písek"},{"district":"PRACHATICE","id":118,"name":"Prachatice"},{"district":"STRAKONICE","id":119,"name":"Strakonice"},{"district":"TABOR","id":120,"name":"Tábor"}],"id":35,"name":"Jihočeský"},{"districts":[{"district":"BLANSKO","id":152,"name":"Blansko"},{"district":"BRECLAV","id":155,"name":"Břeclav"},{"district":"BRNO","id":153,"name":"Brno"},{"district":"HODONIN","id":157,"name":"Hodonín"},{"district":"VYSKOV","id":163,"name":"Vyškov"},{"district":"ZNOJMO","id":164,"name":"Znojmo"}],"id":116,"name":"Jihomoravský"},{"districts":[{"district":"CHEB","id":122,"name":"Cheb"},{"district":"KARLOVY_VARY","id":123,"name":"Karlovy Vary"},{"district":"SOKOLOV","id":129,"name":"Sokolov"}],"id":51,"name":"Karlovarský"},{"districts":[{"district":"HRADEC_KRALOVE","id":142,"name":"Hradec Králové"},{"district":"JICIN","id":144,"name":"Jičín"},{"district":"NACHOD","id":145,"name":"Náchod"},{"district":"RYCHNOV_NAD_KNEZNOU","id":147,"name":"Rychnov nad Kněžnou"},{"district":"TRUTNOV","id":150,"name":"Trutnov"}],"id":86,"name":"Královéhradecký"},{"districts":[{"district":"CESKA_LIPA","id":131,"name":"Česká Lípa"},{"district":"JABLONEC","id":134,"name":"Jablonec nad Nisou"},{"district":"LIBEREC","id":135,"name":"Liberec"},{"district":"SEMILY","id":148,"name":"Semily"}],"id":78,"name":"Liberecký"},{"districts":[{"district":"BRUNTAL","id":166,"name":"Bruntál"},{"district":"FRYDEK_MISTEK","id":167,"name":"Frýdek-Místek"},{"district":"KARVINA","id":168,"name":"Karviná"},{"district":"NOVY_JICIN","id":169,"name":"Nový Jičín"},{"district":"OPAVA","id":171,"name":"Opava"},{"district":"OSTRAVA","id":172,"name":"Ostrava-město"}],"id":132,"name":"Moravskoslezský"},{"districts":[{"district":"JESENIK","id":176,"name":"Jeseník"},{"district":"OLOMOUC","id":170,"name":"Olomouc"},{"district":"PREROV","id":173,"name":"Přerov"},{"district":"PROSTEJOV","id":160,"name":"Prostějov"},{"district":"SUMPERK","id":174,"name":"Šumperk"}],"id":124,"name":"Olomoucký"},{"districts":[{"district":"CHRUDIM","id":143,"name":"Chrudim"},{"district":"PARDUBICE","id":146,"name":"Pardubice"},{"district":"SVITAVY","id":149,"name":"Svitavy"},{"district":"USTI_NAD_ORLICI","id":151,"name":"Ústí nad Orlicí"}],"id":94,"name":"Pardubický"},{"districts":[{"district":"DOMAZLICE","id":121,"name":"Domažlice"},{"district":"KLATOVY","id":124,"name":"Klatovy"},{"district":"PLZEN","id":125,"name":"Plzeň"},{"district":"ROKYCANY","id":128,"name":"Rokycany"},{"district":"TACHOV","id":130,"name":"Tachov"}],"id":43,"name":"Plzeňský"},{"districts":[{"district":"BENESOV","id":101,"name":"Benešov"},{"district":"BEROUN","id":102,"name":"Beroun"},{"district":"KLADNO","id":103,"name":"Kladno"},{"district":"KOLIN","id":104,"name":"Kolín"},{"district":"KUTNA_HORA","id":105,"name":"Kutná Hora"},{"district":"MELNIK","id":106,"name":"Mělník"},{"district":"MLADA_BOLESLAV","id":107,"name":"Mladá Boleslav"},{"district":"NYMBURK","id":108,"name":"Nymburk"},{"district":"PRIBRAM","id":111,"name":"Příbram"},{"district":"RAKOVNIK","id":112,"name":"Rakovník"}],"id":27,"name":"Středočeský"},{"districts":[{"district":"CHOMUTOV","id":133,"name":"Chomutov"},{"district":"DECIN","id":132,"name":"Děčín"},{"district":"LITOMERICE","id":136,"name":"Litoměřice"},{"district":"LOUNY","id":137,"name":"Louny"},{"district":"MOST","id":138,"name":"Most"},{"district":"TEPLICE","id":139,"name":"Teplice"},{"district":"USTI_NAD_LABEM","id":140,"name":"Ústí nad Labem"}],"id":60,"name":"Ústecký"},{"districts":[{"district":"HAVLICKUV_BROD","id":141,"name":"Havlíčkův Brod"},{"district":"JIHLAVA","id":158,"name":"Jihlava"},{"district":"PELHRIMOV","id":116,"name":"Pelhřimov"},{"district":"TREBIC","id":161,"name":"Třebíč"},{"district":"ZDAR_NAD_SAZAVOU","id":165,"name":"Žďár nad Sázavou"}],"id":108,"name":"Vysočina"},{"districts":[{"district":"KROMERIZ","id":159,"name":"Kroměříž"},{"district":"UHERSKE_HRADISTE","id":162,"name":"Uherské Hradiště"},{"district":"VSETIN","id":175,"name":"Vsetín"},{"district":"ZLIN","id":156,"name":"Zlín"}],"id":141,"name":"Zlínský"}],"faviconRtUrl":"","faviconUrl":"","feedId":183,"groupId":"system","isOutage":false,"lastUpdate":1352760957,"promo":"<a href='https://search.seznam.cz/?sId=ZhzBewxrHHiqo-dV3Ksv&sourceid=top&q=ms+v+hokeji+2017&sgId=RcuT0MI-hxA8YRPIhGPmThwokS-iTnw7znpbYGmokq==&oq=ms+v+hokeji+2017&aq=-1&su=e'>MS v hokeji 2017: Přehled zápasů, výsledky…</a>","serverUrl":"","title":"Seznam.cz - výběr služeb a náhled počasí","titleLong":"Seznam.cz - výběr služeb a náhled počasí","typeId":"services","url":"http://www.seznam.cz/","weatherAllowHtml":false,"weatherAllowImage":false,"weatherFeedId":99,"weatherGroupId":"system","weatherLastUpdate":1494932987,"weatherServerUrl":"//pocasi.seznam.cz/","weatherTitle":"Počasí","weatherTypeId":"weather","weatherUrl":"https://pocasi.seznam.cz/rssEntityWeather?id=CESKA_REPUBLIKA"},{"_embedded":{"settings":{"_links":{"self":{"href":"/user/feed/94888/settings"}},"column":1,"item_count":0,"row":2,"show_preview":0}},"_links":{"self":{"href":"/user/feed/94888"},"settings":{"href":"/user/feed/94888/settings"}},"allowHtml":false,"allowImage":false,"column":1,"faviconRtUrl":"","faviconUrl":"","feedId":94888,"groupId":"system","isOutage":false,"item_count":0,"lastUpdate":0,"promo":"","row":2,"serverUrl":"","show_preview":0,"title":"Reklama","titleLong":"Reklama","typeId":"commercial","url":"http://www.seznam.cz/reklama"},{"_embedded":{"item":{"_links":{"self":{"href":"/user/feed/182/item/0"}},"company":{"address":{"city":"Praha","house_num":"583/15","quarter":"Praha 1","street":"Na Příkopě","ward":"Staré Město","zip":"11000"},"categoryWeights":[{"categoryId":2254,"weight":1}],"category_name":"Protézy a implantáty","desc":"Jsme estetická dentální klinika zaměřená na komplexní rekonstrukce úsměvu, bezbolestnou stomatologii, neviditelná rovnátka Incognito | E-brace | Invisalign a zubní implantáty švýcarské kvality Straumann. Také zajišťujeme dentální hygienu, bezbolestné bělení, keramické korunky a můstky na počkání.","detail_url":"https://www.firmy.cz/detail/12931846-elite-dental-praha-stare-mesto.html#utm_medium=hp-box&utm_source=seznam.cz&utm_term=Stomatologické ordinace a pracoviště","id":12931846,"map_route":"https://www.mapy.cz/zakladni?planovani-trasy&rs=&rs=firm&ri=&ri=12931846&rc=9hAyGxXw-9&mrp=&mrp=%7B%22c%22%3A1%2C%22tt%22%3A1%7D","name":"Elite Dental","phone_country_code":"420","phone_number":"222510888","photo":"//img.firmy.cz/premise/full/201504/0918/49/5526c0c249e2e81a9d1b0b00?v=1","subjectId":2246698,"url":"http://www.elitedental.cz#utm_source=www.seznam.cz&utm_medium=ppd&utm_term=Stomatologické ordinace a pracoviště&utm_campaign=firmy.cz-12931846"},"district":{"name":"Česká republika","nuts":"CZ","url":"https://www.firmy.cz/"},"links":[{"name":"Autobazary","url":"https://www.firmy.cz/Auto-moto/Auto-moto-prodejci/Autobazary#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Autobazary"},{"name":"Realitky","url":"https://www.firmy.cz/Remesla-a-sluzby/Reality/Realitni-kancelare#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Realitní kanceláře"},{"name":"Dovolená","url":"https://www.firmy.cz/Cestovni-sluzby/Cestovni-kancelare-a-agentury#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Cestovní kanceláře a agentury"},{"name":"Nábytek","url":"https://www.firmy.cz/Obchody-a-obchudky/Prodejci-nabytku#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej nábytku"},{"name":"Penziony","url":"https://www.firmy.cz/Cestovni-sluzby/Ubytovaci-sluzby/Penziony#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Penziony"},{"name":"Stěhování","url":"https://www.firmy.cz/Vse-pro-firmy/Sluzby-pro-firmy/Stehovani#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Stěhování"},{"name":"Hotely","url":"https://www.firmy.cz/Cestovni-sluzby/Ubytovaci-sluzby/Hotely#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Hotely"},{"name":"Okna","url":"https://www.firmy.cz/Obchody-a-obchudky/Prodejci-stavebnin/Prodejci-stavebnich-prvku/Okna-a-dvere/Prodej-a-montaz-plastovych-oken#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej a montáž plastových oken"},{"name":"Pneuservisy","url":"https://www.firmy.cz/Auto-moto/Auto-moto-sluzby/Autoservisy/Pneuservisy#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Pneuservisy"},{"name":"Kadeřnictví","url":"https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Kadernictvi/Damska-kadernictvi#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Dámská kadeřnictví"},{"name":"Lázně","url":"https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni/Lazne#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Lázně"},{"name":"Jazykové školy","url":"https://www.firmy.cz/Remesla-a-sluzby/Vyukove-sluzby/Jazykove-skoly#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Jazykové školy"},{"name":"Pneumatiky","url":"https://www.firmy.cz/Auto-moto/Auto-moto-prodejci/Prodejci-nahradnich-dilu-a-autodoplnku/Pneumatiky#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej pneumatik"},{"name":"Kosmetika","url":"https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Kosmeticke-salony#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Kosmetika a kosmetické salóny"},{"name":"Erotika","url":"https://www.firmy.cz/Eroticke_firmy#utm_medium=hp-box&utm_source=seznam.cz&utm_term=Erotické firmy"},{"name":"Masáže","url":"https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Masazni-salony#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Masáže"},{"name":"Stavební firmy","url":"https://www.firmy.cz/Remesla-a-sluzby/Stavebni-sluzby/Stavebni-firmy#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Stavební firmy"},{"name":"Kuchyně","url":"https://www.firmy.cz/Obchody-a-obchudky/Prodejci-nabytku/Prodejci-bytoveho-nabytku/Prodejci-kuchyni#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej kuchyní"},{"name":"Veterina","url":"https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Veterinarni-pece/Veterinarni-ordinace#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Veterinární ordinace"},{"name":"Řemeslníci","url":"https://www.firmy.cz/Remesla-a-sluzby/Remesla#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Řemesla"},{"name":"Pojištění","url":"https://www.firmy.cz/Banky-a-financni-sluzby/Pojistovaci-sluzby#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Pojišťovací služby"},{"name":"Zámečnictví","url":"https://www.firmy.cz/Remesla-a-sluzby/Remesla/Zamecnictvi#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Zámečnictví"},{"name":"Autoservisy","url":"https://www.firmy.cz/Auto-moto/Auto-moto-sluzby/Autoservisy#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Autoservisy"},{"name":"Půjčky","url":"https://www.firmy.cz/Banky-a-financni-sluzby/Uvery-a-pujcky#lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Úvěry a půjčky"}],"trend":{"categoryId":2254,"name":"Stomatologické ordinace a pracoviště","title":"Stomatologické ordinace a pracoviště","url":"https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni/Lekarske-ordinace/Stomatologicke-ordinace/"}},"settings":{"_links":{"self":{"href":"/user/feed/182/settings"}},"column":1,"item_count":0,"row":3,"show_preview":0}},"_links":{"item":{"href":"/user/feed/182/item/0"},"self":{"href":"/user/feed/182"},"settings":{"href":"/user/feed/182/settings"}},"allowHtml":false,"allowImage":false,"column":1,"faviconRtUrl":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/BYDBTiE.png","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/RHdBS3h.png","feedId":182,"groupId":"seznam","isOutage":false,"item_count":0,"lastUpdate":1494929413,"promo":"","row":3,"serverUrl":"https://www.firmy.cz","show_preview":0,"title":"Firmy","titleLong":"Firmy","typeId":"catalogue","url":"https://www.firmy.cz/"},{"_embedded":{"item":{"_links":{"self":{"href":"/user/feed/185/item/0"}},"description":"Merkur se dnes přesouvá do plodného znamení Býka, takže se budete moci těšit z příznivého dopadu vašeho profesního počínání. Platí to zejména pro podnikatele. Pokud navíc obchodujete s uměním, šperky nebo módním zbožím, je úrodná půda připravena.","link":"https://www.horoskopy.cz/beran/","title":"Beran","zodiac_id":1},"settings":{"_links":{"self":{"href":"/user/feed/185/settings"}},"zodiac_id":185}},"_links":{"item":{"href":"/user/feed/185/item/0"},"self":{"href":"/user/feed/185"},"settings":{"href":"/user/feed/185/settings"}},"allowHtml":false,"allowImage":false,"faviconRtUrl":"","faviconUrl":"","feedId":185,"groupId":"seznam","isOutage":false,"lastUpdate":0,"promo":"","serverUrl":"","title":"Horoskopy.cz – dnešní horoskop","titleLong":"Horoskopy","typeId":"zodiac","url":"https://www.horoskopy.cz/","zodiac_id":185,"zodiacs":[{"selected":false,"zodiac_id":1,"zodiac_name":"beran"},{"selected":false,"zodiac_id":2,"zodiac_name":"byk"},{"selected":false,"zodiac_id":3,"zodiac_name":"blizenci"},{"selected":false,"zodiac_id":4,"zodiac_name":"rak"},{"selected":false,"zodiac_id":5,"zodiac_name":"lev"},{"selected":false,"zodiac_id":6,"zodiac_name":"panna"},{"selected":false,"zodiac_id":7,"zodiac_name":"vahy"},{"selected":false,"zodiac_id":8,"zodiac_name":"stir"},{"selected":false,"zodiac_id":9,"zodiac_name":"strelec"},{"selected":false,"zodiac_id":10,"zodiac_name":"kozoroh"},{"selected":false,"zodiac_id":11,"zodiac_name":"vodnar"},{"selected":false,"zodiac_id":12,"zodiac_name":"ryby"},{"selected":true,"zodiac_id":185,"zodiac_name":"nahodne"}]},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/180/item/0"}},"item":[{"canonicalUrl":"https://tv.seznam.cz/program/3554671","channel":"ČT 1","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15081794/img/90/160x160_aJmk6y.png?fl=res,52,,1","channelId":1,"id":3554671,"progress":62,"time":1494936000,"timeTo":1494938700,"title":"Soudkyně Amy VI","type":"seriál"},{"canonicalUrl":"https://tv.seznam.cz/program/3554736","channel":"ČT 2","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15081744/img/60/160x160_yrnkfN.png?fl=res,52,,1","channelId":2,"id":3554736,"progress":44,"time":1494936900,"timeTo":1494938700,"title":"proStory: V duchu betonu","type":"dokument"},{"canonicalUrl":"https://tv.seznam.cz/program/3640603","channel":"ČT Sport","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15081746/img/62/160x160_JtkGuy.png?fl=res,52,,1","channelId":18,"id":3640603,"progress":98,"time":1494928800,"timeTo":1494937800,"title":"Hokej: Švédsko - Slovensko","type":"sport"},{"canonicalUrl":"https://tv.seznam.cz/program/3560366","channel":"Nova","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/c_img_F_C/zBtB.png?fl=res,52,,1","channelId":3,"id":3560366,"progress":47,"time":1494936000,"timeTo":1494939600,"title":"Odložené případy IV (15)","type":"seriál"},{"canonicalUrl":"https://tv.seznam.cz/program/3554562","channel":"Nova 2","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/c_img_E_B/1X9CP.png?fl=res,52,,1","channelId":530,"id":3554562,"progress":52,"time":1494936900,"timeTo":1494938400,"title":"Dva a půl chlapa VII (2)","type":"seriál"},{"canonicalUrl":"https://tv.seznam.cz/program/3554507","channel":"Nova CINEMA","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/c_img_E_C/K27C.png?fl=res,52,,1","channelId":78,"id":3554507,"progress":80,"time":1494932400,"timeTo":1494939000,"title":"Šest dní, sedm nocí","type":"film"},{"canonicalUrl":"https://tv.seznam.cz/program/3547602","channel":"Prima","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15081776/img/33/160x160_VzIzVU.png?fl=res,52,,1","channelId":4,"id":3547602,"progress":50,"time":1494933900,"timeTo":1494941400,"title":"Komisař Rex III (10)","type":"seriál"},{"canonicalUrl":"https://tv.seznam.cz/program/3551863","channel":"Prima COOL","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15081739/img/1/160x160_dwjJio.png?fl=res,52,,1","channelId":92,"id":3551863,"progress":10,"time":1494937500,"timeTo":1494939300,"title":"Simpsonovi XI (8)","type":"seriál"},{"canonicalUrl":"https://tv.seznam.cz/program/3552699","channel":"Prima Love","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/c_A_C/DZoF.png?fl=res,52,,1","channelId":226,"id":3552699,"progress":74,"time":1494934800,"timeTo":1494938700,"title":"Gordon Ramsay: Famózní kuchyně V (3)","type":"zábava"},{"canonicalUrl":"https://tv.seznam.cz/program/3554125","channel":"Prima MAX","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15111871/img/31/160x160__h2kdq.png?fl=res,52,,1","channelId":460,"id":3554125,"progress":5,"time":1494937500,"timeTo":1494941100,"title":"Doktor z hor: Nové příběhy VI (12)","type":"seriál"},{"canonicalUrl":"https://tv.seznam.cz/program/3554333","channel":"Prima ZOOM","channelFaviconUrl":"//d27-a.sdn.szn.cz/d_27/d_15081741/img/95/160x160_Cdq1q2.png?fl=res,52,,1","channelId":333,"id":3554333,"progress":97,"time":1494933600,"timeTo":1494937800,"title":"Ve stopě predátora (1)","type":"dokument"}],"title":"Právě běží"},{"_links":{"self":{"href":"/user/feed/180/item/1?tv=16_18"}},"title":"16:00"},{"_links":{"self":{"href":"/user/feed/180/item/2?tv=18_20"}},"title":"18:00"},{"_links":{"self":{"href":"/user/feed/180/item/3?tv=20_22"}},"title":"20:00"}],"settings":{"_links":{"self":{"href":"/user/feed/180/settings"}},"weather_id":0}},"_links":{"item":[{"href":"/user/feed/180/item/0"},{"href":"/user/feed/180/item/1?tv=16_18"},{"href":"/user/feed/180/item/2?tv=18_20"},{"href":"/user/feed/180/item/3?tv=20_22"}],"self":{"href":"/user/feed/180"},"settings":{"href":"/user/feed/180/settings"}},"allowHtml":false,"allowImage":false,"column":1,"faviconRtUrl":"","faviconUrl":"","feedId":180,"groupId":"seznam","isOutage":false,"item_count":0,"lastUpdate":1259190580,"promo":"","row":5,"serverUrl":"","show_preview":0,"title":"Tv.seznam.cz – přehled kanálů","titleLong":"TV program","typeId":"television","url":"http://projects.coex.cz/kirke/data_export.php?key=s33Zzn4Mm&days=0"},{"_embedded":{"item":[{"_links":{"self":{"href":"/user/feed/165040/item/0"}},"category":"Stavebnice LEGO","category_next_title":"Další stavebnice lego","category_next_url":"https://www.zbozi.cz/detske-zbozi/hracky/stavebnice/stavebnice-lego/#utm_source=seznam.cz&utm_medium=hp-box","description":"Bojuj s jednotkami Prvního řádu díky Poeově stíhačce X-Wing","link":"https://www.zbozi.cz/vyrobek/lego-star-wars-75102-poeova-stihacka-x-wing/#utm_source=seznam.cz&utm_medium=hp-box","pubDate":"1494885600","seznam_image":"https://d25-a.sdn.szn.cz/d_25/d_15102216/img/10/999x728_XXncSH.jpg?w=100&h=84&m=rp&zbz-stamp=1494937501","seznam_zbozi_price":"Cena od 1 937 Kč","title":"LEGO Star Wars"},{"_links":{"self":{"href":"/user/feed/165040/item/1"}},"category":"Kompresory","category_next_title":"Další kompresory","category_next_url":"https://www.zbozi.cz/dum-byt-a-zahrada/dilna/kompresory/#utm_source=seznam.cz&utm_medium=hp-box","description":"Scheppach AIR FORCE, praktický, skladný, lehký, výkonný a bohatě vybavený","link":"https://www.zbozi.cz/vyrobek/scheppach-air-force/#utm_source=seznam.cz&utm_medium=hp-box","pubDate":"1494885600","seznam_image":"https://d25-a.sdn.szn.cz/d_25/c_img_H_a/k7vBb23.jpeg?w=100&h=84&m=rp&zbz-stamp=1494937501","seznam_zbozi_price":"Cena od 1 563 Kč","title":"Bezolejový kompresor Scheppach AIR FORCE"},{"_links":{"self":{"href":"/user/feed/165040/item/2"}},"category":"Mobilní telefony","category_next_title":"Další mobilní telefony","category_next_url":"https://www.zbozi.cz/telefony-navigace/mobilni-telefony/#utm_source=seznam.cz&utm_medium=hp-box","description":"Galaxy S8 s inovativní neohraničenou obrazovkou ohromí každého","link":"https://www.zbozi.cz/vyrobek/samsung-galaxy-s8-g950f/#utm_source=seznam.cz&utm_medium=hp-box","pubDate":"1494885600","seznam_image":"https://d25-a.sdn.szn.cz/d_25/c_img_H_Bo/Gxe1u.jpeg?w=100&h=84&m=rp&zbz-stamp=1494937501","seznam_zbozi_price":"Cena od 18 990 Kč","title":"Samsung Galaxy S8 nejlevněji"}],"settings":{"_links":{"self":{"href":"/user/feed/165040/settings"}},"column":1,"item_count":0,"row":6,"show_preview":0}},"_links":{"item":[{"href":"/user/feed/165040/item/0"},{"href":"/user/feed/165040/item/1"},{"href":"/user/feed/165040/item/2"}],"self":{"href":"/user/feed/165040"},"settings":{"href":"/user/feed/165040/settings"}},"allowHtml":false,"allowImage":false,"column":1,"faviconRtUrl":"","faviconUrl":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/dDdBni2.png","feedId":165040,"groupId":"komunikace","isOutage":false,"item_count":0,"lastUpdate":1494937557,"promo":"","row":6,"serverUrl":"https://www.zbozi.cz/","show_preview":0,"title":"Zboží","titleLong":"Zboží","typeId":"goods","url":"http://admin.zbozi.cz/static/hpbox.xml#1"}]},"_links":{"feed":[{"href":"/user/feed/184"},{"href":"/user/feed/183"},{"href":"/user/feed/94888"},{"href":"/user/feed/182"},{"href":"/user/feed/185"},{"href":"/user/feed/180"},{"href":"/user/feed/165040"}],"self":{"href":"/user/column/1"}}}],"dog":{"_links":{"self":{"href":"/dog"}},"dateFrom":1494907200,"dateTo":1494944040,"height":230,"id":265,"name":"Dnes hraje Česká republika se Švýcarskem","pictureUrl":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/fpGBeZQ.png","url":"https://www.sport.cz/hokej/ms2017/","width":230},"online_zpravy":{"_links":{"self":{"href":"/online-zpravy"}},"serverUrl":"https://www.seznam.cz/zpravy","title":"Zprávy - online","titleLong":"Zprávy - online"},"skin":{"_links":{"self":{"href":"/user/skin"},"settings":{"href":"/user/settings/skin"}},"background_color":"","id":1,"name":"Originál od Seznamu","static_css_id":0,"text_css":"","thematic":0,"thumb":"//d32-a.sdn.szn.cz/d_32/c_D_C/6qsFxv.png"},"timeline":{"_links":{"latest":{"href":"/timeline/eyJyZCI6ICJsYXRlc3QiLCAidCI6ICIiLCAibyI6IDE0OTQ5Mzc2OTMsICJsIjogMTAwfQ"},"older":{"href":"/timeline/eyJyZCI6ICJvbGRlciIsICJ0IjogIiIsICJvIjogMTQ5NDkzNzY5MywgImwiOiAxMH0"},"self":{"href":"/timeline"}},"items":[{"channel_icon_url":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/0DOBuZt.png","channel_is_seznam_channel":false,"channel_server_url":"http://www.seznam.cz/r/http%253A%252F%252Fwww.auto.cz%252F/Vu7aCx_JJSw2-pD_LGELZg","channel_title":"Auto.cz","description":"Concorso d'Eleganza u Villa d'Este představuje jednu z nejprestižnějších přehlídek automobilové elegance na světě a čínská společnost Techrules právě zde hodlá prezentovat svůj netradiční model Ren.","id":49774,"image_url":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/oLrBv7y.jpeg?fl=res,384,216,3,000000","is_fallback":true,"is_recommended":false,"link":"http://www.seznam.cz/r/http%253A%252F%252Fwww.auto.cz%252Ftechrules-giugiaro-vezou-supersport-ren-turbinami-jezeru-como-106568/ZKoLZuf94gqgOmgGvyw3bg","tags":[],"title":"Techrules veze supersport Ren s turbínami k jezeru Como"},{"channel_icon_url":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/LHOBuZJ.png","channel_is_seznam_channel":false,"channel_server_url":"http://www.seznam.cz/r/https%253A%252F%252Fsamsungmagazine.eu%252F/IMGBtuZ3CdLxgcxowggq2w","channel_title":"Samsung Magazine","description":"Společnost Samsung bezesporu umí vyrobit telefon s výborným fotoaparátem. Důkazem budiž skvělé fotomobily Galaxy S7 a Galaxy S7 edge. Ty však podle výsledků odborníků z DxOMark porazily Pixel a Pixel XL od společnosti Google. Nyní se musel tým profesionálů podívat na zoubek také nejnovějšímu vlajkovému modelu Galaxy S8 a S8+. A výsledky jsou velice zajímavé.","id":49773,"image_url":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/TIgBwUl.jpeg?fl=res,384,216,3,000000","is_fallback":true,"is_recommended":false,"link":"http://www.seznam.cz/r/https%253A%252F%252Fsamsungmagazine.eu%252F2017%252F05%252F16%252Ftest-fotoaparatu-galaxy-s7-s8-podle-odborniku-dxomark-ktery-foti-lepe%252F/2PEouCGsdAtbNCcGrpOUdw","tags":[],"title":"Test fotoaparátů Galaxy S7 a S8 podle odborníků z DxOMark. Který fotí lépe?"},{"channel_icon_url":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/IPxBqOR.png","channel_is_seznam_channel":false,"channel_server_url":"http://www.seznam.cz/r/https%253A%252F%252Fwww.letemsvetemapplem.eu/zb3wTYKdjJBKUyIKshn1Kw","channel_title":"Letem světem Applem","description":"Funkce Zpět zatřesením je tu s námi již pár let. Co jsem ale zatím vypozoroval, tak stále mnoho osob netuší, o co vlastně jde. Dokonce ji někteří nazývají jako otravnou, aniž by věděli, jak se věci mají. Jde o celkem užitečnou vymoženost, která nám dovoluje doslova vrátit zpět právě udělaný krok v iOS otřesem zařízení. ","id":49772,"image_url":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/4ooBwUv.jpeg?fl=res,384,216,3,000000","is_fallback":true,"is_recommended":false,"link":"http://www.seznam.cz/r/https%253A%252F%252Fwww.letemsvetemapplem.eu%252F2017%252F05%252F16%252Ffunkce-zpet-zatresenim-ios%252F/f1z0Y3K3ocj6a2sorRMd7g","tags":[],"title":"Jak používat a nastavit funkci Zpět zatřesením na iOS"},{"channel_icon_url":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/GdOBpfJ.png","channel_is_seznam_channel":false,"channel_server_url":"http://www.seznam.cz/r/https%253A%252F%252Fvtm.zive.cz%252F/5iojyvve1Tcujyf0zOwdFQ","channel_title":"VTM","description":"V roce 1993 si astronom Carl Sagan procházel obrázky Země pořízené kosmickou sondou Galileo a všiml si toho, že na některých z nich jsou vidět podivné záblesky světla. Ty se však zdánlivě objevovaly pouze v oblastech pokrytých vodou, takže vysvětlení bylo nabíledni – světlo se odráží od ní.","id":49771,"image_url":"//d32-a.sdn.szn.cz/d_32/c_img_F_I/c0uBwZZ.jpeg?fl=res,384,216,3,000000","is_fallback":true,"is_recommended":false,"link":"http://www.seznam.cz/r/https%253A%252F%252Fvtm.zive.cz%252Fbleskovky%252Fnasa-rozlustila-zahadu-zablesku-svetla-odrazenych-nasi-planetou%252Fsc-871-a-187666%252Fdefault.aspx/N3oO_bYf3BiSwtJl53lGjA","tags":[],"title":"NASA rozluštila záhadu záblesků světla odrážených naší planetou"},{"channel_icon_url":"//d32-a.sdn.szn.cz/d_32/c_img_E_I/gmXBuZX.png","channel_is_seznam_channel":false,"channel_server_url":"http://www.seznam.cz/r/http%253A%252F%252Fwww.autoforum.cz%252F/iZBooWvZXwQYi1VEMhDqXg","channel_title":"Auto fórum","description":"Čím problematičtější nějaké auto je, tím rychleji se ho chcete zbavit - a naopak. Statistika, jaká auta si majitelé nechávají dlouho, tedy řekne hodně.","id":49769,"image_url":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/h4rBqde.jpeg?fl=res,384,216,3,000000","is_fallback":true,"is_recommended":false,"link":"http://www.seznam.cz/r/http%253A%252F%252Fwww.autoforum.cz%252Fzivot-ridice%252F10-aut-ktera-si-majitele-nechavaji-nejdele-s-temito-nemohou-byt-problemy%252F/qqJ7f2BlUjuozuuxDGklnQ","tags":[],"title":"Auta, která si majitelé nechávají nejdéle"},{"channel_icon_url":"//d32-a.sdn.szn.cz/d_32/c_img_G_I/u6wBqPZ.png","channel_is_seznam_channel":false,"channel_server_url":"http://www.seznam.cz/r/http%253A%252F%252Fwww.ireport.cz/gLeLuyYJ7ja9eFDGhV6HnQ","channel_title":"iREPORT","description":"Umět zahrát nejlepší sólo na kytaru a vyzpívat nejvyšší tóny jsou jistě ctnosti, po kterých prahne řada muzikantů. Jsou ale i kapely, kterým \"jenom\" dělat dobrou hudbu nestačí. Připomeňme si sedmičku největších rockových maškar.","id":49768,"image_url":"//d32-a.sdn.szn.cz/d_32/c_img_H_I/VgzBqVM.jpeg?fl=res,384,216,3,000000","is_fallback":true,"is_recommended":false,"link":"http://www.seznam.cz/r/http%253A%252F%252Fwww.ireport.cz%252Ftop-7-maskovanych-kapel-kiss-slipknot-marilyn-manson-a-dalsi-bubaci/M7cJiAB4u3nEeIQg1y6j_A","tags":[],"title":"Maskované kapely: Kiss, Slipknot, Marilyn Manson a další bubáci"}],"post_links":true}},"_links":{"column":[{"href":"/user/column/0"},{"href":"/user/column/1"}],"dog":{"href":"/dog"},"online_zpravy":{"href":"/online-zpravy"},"self":{"href":"/user"},"skin":{"href":"/user/skin"},"timeline":{"href":"/timeline"}},"calendar":{"name":"<a href=\"https://www.horoskopy.cz/vyklad-jmena/premysl#hp_seznam\" title=\"Význam jména Přemysl\" class=\"name-link\">Přemysl</a>","timestamp":"1494937602"},"hint_cookie":{"created":1494937693},"logged":false},"imageLoadingMode":"image-loading-standard-mode","isHybridHP":false,"randoms":{"dog":1},"renderingMode":"rendering-full-mode","requestCookies":"","requestQueryParams":{},"requestUserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36","time":1494937728260,"timezoneOffset":-120}
+                                            );
+                                        }
+                                    });
+                                };
+
+                                if (document.addEventListener) {
+                                    document.addEventListener(
+                                        "DOMContentLoaded",
+                                        start
+                                    );
+                                } else {
+                                    setTimeout(start, 0);
+                                }
+                            })(window);
+                        </script> 
+  <script type="text/javascript">
+                        (function() {
+                            function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+                            gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+                            (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');
+                            gt.setAttribute('async','async'); gt.setAttribute('defer','defer'); gt.src=l+'://gacz.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e)
+                            {}})(document,'script');
+                        })();
+                    </script>   
+ </body>
+</html>
